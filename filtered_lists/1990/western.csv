@@ -1,0 +1,4 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Unforgiven,1992,"Drama, Western",USA,Clint Eastwood,8.2,85.0,559.0,116.0
+Dances with Wolves,1990,"Adventure, Drama, Western","USA, UK",Kevin Costner,8.0,72.0,441.0,108.0
+Dead Man,1995,"Drama, Fantasy, Western","USA, Germany, Japan",Jim Jarmusch,7.6,62.0,334.0,117.0

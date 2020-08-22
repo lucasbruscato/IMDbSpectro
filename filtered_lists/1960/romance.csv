@@ -1,0 +1,12 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Apartment,1960,"Comedy, Drama, Romance",USA,Billy Wilder,8.3,94.0,308.0,229.0
+Doctor Zhivago,1965,"Drama, Romance, War","USA, Italy, UK, Liechtenstein",David Lean,8.0,69.0,289.0,94.0
+The Graduate,1967,"Comedy, Drama, Romance",USA,Mike Nichols,8.0,83.0,734.0,189.0
+Charade,1963,"Comedy, Mystery, Romance",USA,Stanley Donen,7.9,83.0,291.0,114.0
+Splendor in the Grass,1961,"Drama, Romance",USA,Elia Kazan,7.8,74.0,135.0,47.0
+Les parapluies de Cherbourg,1964,"Drama, Musical, Romance","France, West Germany",Jacques Demy,7.8,86.0,143.0,114.0
+Breakfast at Tiffany's,1961,"Comedy, Drama, Romance",USA,Blake Edwards,7.7,76.0,419.0,181.0
+The Time Machine,1960,"Adventure, Romance, Sci-Fi",USA,George Pal,7.6,67.0,221.0,73.0
+Lolita,1962,"Crime, Drama, Romance","UK, USA",Stanley Kubrick,7.6,79.0,237.0,96.0
+Masculin féminin,1966,"Drama, Romance","France, Sweden",Jean-Luc Godard,7.6,92.0,41.0,55.0
+El Dorado,1967,"Drama, Romance, Western",USA,Howard Hawks,7.6,85.0,109.0,47.0

@@ -1,0 +1,15 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy,"UK, USA",Stanley Kubrick,8.4,97.0,899.0,227.0
+The Apartment,1960,"Comedy, Drama, Romance",USA,Billy Wilder,8.3,94.0,308.0,229.0
+La dolce vita,1960,"Comedy, Drama","Italy, France",Federico Fellini,8.0,93.0,183.0,143.0
+The Graduate,1967,"Comedy, Drama, Romance",USA,Mike Nichols,8.0,83.0,734.0,189.0
+"One, Two, Three",1961,Comedy,USA,Billy Wilder,7.9,73.0,128.0,76.0
+Charade,1963,"Comedy, Mystery, Romance",USA,Stanley Donen,7.9,83.0,291.0,114.0
+Bande à part,1964,"Comedy, Crime, Drama",France,Jean-Luc Godard,7.8,88.0,65.0,92.0
+Mary Poppins,1964,"Comedy, Family, Fantasy",USA,Robert Stevenson,7.8,88.0,318.0,157.0
+Guess Who's Coming to Dinner,1967,"Comedy, Drama",USA,Stanley Kramer,7.8,63.0,365.0,67.0
+Breakfast at Tiffany's,1961,"Comedy, Drama, Romance",USA,Blake Edwards,7.7,76.0,419.0,181.0
+The Odd Couple,1968,Comedy,USA,Gene Saks,7.7,86.0,127.0,68.0
+A Hard Day's Night,1964,"Comedy, Music, Musical",UK,Richard Lester,7.6,96.0,239.0,85.0
+Giulietta degli spiriti,1965,"Comedy, Drama, Fantasy","Italy, France",Federico Fellini,7.6,83.0,62.0,43.0
+The Producers,1967,"Comedy, Music",USA,Mel Brooks,7.6,96.0,259.0,92.0

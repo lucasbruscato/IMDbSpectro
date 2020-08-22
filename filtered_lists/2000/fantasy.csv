@@ -1,0 +1,23 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.9,94.0,3528.0,346.0
+The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.8,92.0,5218.0,329.0
+The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.7,87.0,2488.0,315.0
+Pan's Labyrinth,2006,"Drama, Fantasy, War","Mexico, Spain",Guillermo del Toro,8.2,98.0,1225.0,446.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Action, Adventure, Fantasy",USA,Gore Verbinski,8.0,63.0,2146.0,286.0
+Sennen joyû,2001,"Animation, Drama, Fantasy",Japan,Satoshi Kon,7.9,70.0,66.0,67.0
+Harry Potter and the Prisoner of Azkaban,2004,"Adventure, Family, Fantasy","UK, USA",Alfonso Cuarón,7.9,82.0,1550.0,292.0
+The Fall,2006,"Adventure, Drama, Fantasy","USA, South Africa, India",Tarsem Singh,7.9,64.0,340.0,191.0
+The Curious Case of Benjamin Button,2008,"Drama, Fantasy, Romance",USA,David Fincher,7.8,70.0,903.0,382.0
+Wo hu cang long,2000,"Action, Adventure, Fantasy","Taiwan, Hong Kong, USA, China",Ang Lee,7.8,93.0,1655.0,304.0
+Avatar,2009,"Action, Adventure, Fantasy",USA,James Cameron,7.8,83.0,3304.0,727.0
+Mr. Nobody,2009,"Drama, Fantasy, Romance","Belgium, Germany, Canada, France, USA, UK",Jaco Van Dormael,7.8,63.0,368.0,132.0
+Waking Life,2001,"Animation, Drama, Fantasy",USA,Richard Linklater,7.8,82.0,513.0,141.0
+Harry Potter and the Goblet of Fire,2005,"Adventure, Family, Fantasy","UK, USA",Mike Newell,7.7,81.0,1933.0,311.0
+Kung fu,2004,"Action, Comedy, Fantasy","Hong Kong, China",Stephen Chow,7.7,78.0,387.0,377.0
+Coraline,2009,"Animation, Drama, Fantasy",USA,Henry Selick,7.7,80.0,352.0,332.0
+Vampire Hunter D: Bloodlust,2000,"Animation, Action, Fantasy","Japan, USA",Yoshiaki Kawajiri,7.7,62.0,105.0,61.0
+Papurika,2006,"Animation, Drama, Fantasy",Japan,Satoshi Kon,7.7,81.0,119.0,160.0
+Stranger Than Fiction,2006,"Comedy, Drama, Fantasy",USA,Marc Forster,7.6,67.0,578.0,259.0
+The Illusionist,2006,"Drama, Fantasy, History","USA, Czech Republic",Neil Burger,7.6,68.0,674.0,241.0
+Harry Potter and the Sorcerer's Stone,2001,"Adventure, Family, Fantasy","UK, USA",Chris Columbus,7.6,64.0,1654.0,264.0
+Stardust,2007,"Adventure, Family, Fantasy","UK, USA",Matthew Vaughn,7.6,66.0,538.0,240.0

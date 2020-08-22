@@ -1,0 +1,13 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Star Wars,1977,"Action, Adventure, Fantasy",USA,George Lucas,8.6,90.0,1688.0,172.0
+Monty Python and the Holy Grail,1975,"Adventure, Comedy, Fantasy",UK,"Terry Gilliam, Terry Jones",8.2,93.0,738.0,102.0
+Barry Lyndon,1975,"Adventure, Drama, History","UK, USA",Stanley Kubrick,8.1,89.0,429.0,101.0
+Jaws,1975,"Adventure, Drama, Thriller",USA,Steven Spielberg,8.0,87.0,1150.0,282.0
+The Man Who Would Be King,1975,"Adventure, History, War","UK, USA",John Huston,7.8,91.0,185.0,53.0
+Deliverance,1972,"Adventure, Drama, Thriller",USA,John Boorman,7.7,82.0,387.0,143.0
+Sorcerer,1977,"Adventure, Drama, Thriller","USA, Mexico",William Friedkin,7.7,68.0,146.0,101.0
+Rupan sansei: Kariosutoro no shiro,1979,"Animation, Adventure, Family",Japan,Hayao Miyazaki,7.7,71.0,89.0,88.0
+Little Big Man,1970,"Adventure, Comedy, Drama",USA,Arthur Penn,7.6,63.0,119.0,58.0
+Walkabout,1971,"Adventure, Drama","UK, Australia",Nicolas Roeg,7.6,85.0,151.0,88.0
+Jeremiah Johnson,1972,"Adventure, Drama, Western",USA,Sydney Pollack,7.6,75.0,138.0,43.0
+The Muppet Movie,1979,"Adventure, Comedy, Family","UK, USA",James Frawley,7.6,74.0,104.0,76.0

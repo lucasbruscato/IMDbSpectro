@@ -1,0 +1,8 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Wild Bunch,1969,"Action, Adventure, Western",USA,Sam Peckinpah,7.9,95.0,313.0,118.0
+The Longest Day,1962,"Action, Drama, History",USA,"Ken Annakin, Andrew Marton",7.8,75.0,224.0,53.0
+Bonnie and Clyde,1967,"Action, Biography, Crime",USA,Arthur Penn,7.8,86.0,417.0,100.0
+The Dirty Dozen,1967,"Action, Adventure, War","UK, USA",Robert Aldrich,7.8,73.0,184.0,85.0
+The Magnificent Seven,1960,"Action, Adventure, Western","USA, Philippines",John Sturges,7.7,74.0,282.0,124.0
+Goldfinger,1964,"Action, Adventure, Thriller",UK,Guy Hamilton,7.7,87.0,455.0,119.0
+Where Eagles Dare,1968,"Action, Adventure, War","UK, USA",Brian G. Hutton,7.7,63.0,255.0,54.0

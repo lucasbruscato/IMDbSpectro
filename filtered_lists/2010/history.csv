@@ -1,0 +1,15 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+12 Years a Slave,2013,"Biography, Drama, History","USA, UK",Steve McQueen,8.1,96.0,814.0,609.0
+Hacksaw Ridge,2016,"Biography, Drama, History","Australia, USA",Mel Gibson,8.1,71.0,805.0,464.0
+The King's Speech,2010,"Biography, Drama, History","UK, USA, Australia",Tom Hooper,8.0,88.0,701.0,486.0
+Straight Outta Compton,2015,"Biography, Drama, History",USA,F. Gary Gray,7.9,72.0,376.0,381.0
+Dunkirk,2017,"Action, Drama, History","UK, Netherlands, France, USA",Christopher Nolan,7.9,94.0,2222.0,608.0
+Under sandet,2015,"Drama, History, War","Denmark, Germany",Martin Zandvliet,7.8,75.0,70.0,154.0
+Hidden Figures,2016,"Biography, Drama, History",USA,Theodore Melfi,7.8,74.0,451.0,418.0
+Taeksi woonjunsa,2017,"Action, Drama, History",South Korea,Hun Jang,7.8,69.0,31.0,46.0
+Lo imposible,2012,"Drama, History, Thriller","Spain, USA",J.A. Bayona,7.6,73.0,399.0,381.0
+Les Misérables,2012,"Drama, History, Musical","UK, USA",Tom Hooper,7.6,63.0,929.0,502.0
+Bridge of Spies,2015,"Drama, History, Thriller","Germany, India, USA",Steven Spielberg,7.6,81.0,444.0,498.0
+The Favourite,2018,"Biography, Drama, History","Ireland, UK, USA",Yorgos Lanthimos,7.6,90.0,1100.0,415.0
+Hotel Mumbai,2018,"Drama, History, Thriller","Australia, USA, UK, India, Singapore",Anthony Maras,7.6,62.0,325.0,150.0
+Zimna wojna,2018,"Drama, History, Music","Poland, UK, France",Pawel Pawlikowski,7.6,90.0,180.0,270.0

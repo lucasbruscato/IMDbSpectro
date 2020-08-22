@@ -1,0 +1,22 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Inception,2010,"Action, Adventure, Sci-Fi","USA, UK",Christopher Nolan,8.8,74.0,3439.0,462.0
+Interstellar,2014,"Adventure, Drama, Sci-Fi","USA, UK, Canada",Christopher Nolan,8.6,74.0,3571.0,612.0
+Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi",USA,"Anthony Russo, Joe Russo",8.5,68.0,4111.0,591.0
+Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi","Australia, USA, South Africa",George Miller,8.1,90.0,1886.0,812.0
+Logan,2017,"Action, Drama, Sci-Fi",USA,James Mangold,8.1,77.0,1489.0,622.0
+Her,2013,"Drama, Romance, Sci-Fi",USA,Spike Jonze,8.0,90.0,957.0,600.0
+The Avengers,2012,"Action, Adventure, Sci-Fi",USA,Joss Whedon,8.0,69.0,1859.0,738.0
+The Martian,2015,"Adventure, Drama, Sci-Fi","UK, USA, Hungary",Ridley Scott,8.0,80.0,1231.0,616.0
+X-Men: Days of Future Past,2014,"Action, Adventure, Sci-Fi","USA, UK, Canada",Bryan Singer,8.0,75.0,804.0,560.0
+Arrival,2016,"Drama, Mystery, Sci-Fi","USA, Canada, India",Denis Villeneuve,7.9,81.0,1734.0,708.0
+Edge of Tomorrow,2014,"Action, Sci-Fi","USA, Canada",Doug Liman,7.9,71.0,908.0,620.0
+Star Wars: Episode VII - The Force Awakens,2015,"Action, Adventure, Sci-Fi",USA,J.J. Abrams,7.9,81.0,4548.0,883.0
+Rogue One,2016,"Action, Adventure, Sci-Fi",USA,Gareth Edwards,7.8,65.0,1602.0,694.0
+Captain America: Civil War,2016,"Action, Adventure, Sci-Fi",USA,"Anthony Russo, Joe Russo",7.8,75.0,1342.0,658.0
+Ex Machina,2014,"Drama, Mystery, Sci-Fi",UK,Alex Garland,7.7,78.0,814.0,510.0
+Captain America: The Winter Soldier,2014,"Action, Adventure, Sci-Fi",USA,"Anthony Russo, Joe Russo",7.7,70.0,879.0,604.0
+Gravity,2013,"Drama, Sci-Fi, Thriller","UK, USA",Alfonso Cuarón,7.7,96.0,2027.0,772.0
+Star Trek Into Darkness,2013,"Action, Adventure, Sci-Fi",USA,J.J. Abrams,7.7,72.0,1218.0,616.0
+X: First Class,2011,"Action, Adventure, Sci-Fi","USA, UK",Matthew Vaughn,7.7,65.0,744.0,521.0
+Rise of the Planet of the Apes,2011,"Action, Drama, Sci-Fi","USA, UK, Canada",Rupert Wyatt,7.6,68.0,693.0,553.0
+Spider-Man: Far from Home,2019,"Action, Adventure, Sci-Fi",USA,Jon Watts,7.6,69.0,1807.0,385.0

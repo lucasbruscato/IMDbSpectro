@@ -1,0 +1,11 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Se7en,1995,"Crime, Drama, Mystery",USA,David Fincher,8.6,65.0,1294.0,258.0
+The Usual Suspects,1995,"Crime, Mystery, Thriller","USA, Germany",Bryan Singer,8.5,77.0,1286.0,173.0
+L.A. Confidential,1997,"Crime, Drama, Mystery",USA,Curtis Hanson,8.2,90.0,679.0,131.0
+Trois couleurs: Rouge,1994,"Drama, Mystery, Romance","Switzerland, France, Poland",Krzysztof Kieslowski,8.1,100.0,156.0,104.0
+The Sixth Sense,1999,"Drama, Mystery, Thriller",USA,M. Night Shyamalan,8.1,64.0,2169.0,261.0
+Twelve Monkeys,1995,"Mystery, Sci-Fi, Thriller",USA,Terry Gilliam,8.0,74.0,589.0,176.0
+Trois couleurs: Bleu,1993,"Drama, Music, Mystery","France, Poland, Switzerland",Krzysztof Kieslowski,7.9,85.0,186.0,112.0
+Glengarry Glen Ross,1992,"Crime, Drama, Mystery",USA,James Foley,7.8,80.0,390.0,122.0
+The Game,1997,"Drama, Mystery, Thriller",USA,David Fincher,7.8,61.0,599.0,184.0
+Dark City,1998,"Mystery, Sci-Fi, Thriller","Australia, USA",Alex Proyas,7.6,66.0,665.0,239.0

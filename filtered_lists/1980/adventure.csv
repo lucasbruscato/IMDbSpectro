@@ -1,0 +1,20 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",USA,Irvin Kershner,8.7,82.0,1098.0,204.0
+Back to the Future,1985,"Adventure, Comedy, Sci-Fi",USA,Robert Zemeckis,8.5,87.0,1050.0,233.0
+Aliens,1986,"Action, Adventure, Sci-Fi","USA, UK",James Cameron,8.4,84.0,1213.0,302.0
+Raiders of the Lost Ark,1981,"Action, Adventure",USA,Steven Spielberg,8.4,85.0,864.0,243.0
+Das Boot,1981,"Adventure, Drama, Thriller",West Germany,Wolfgang Petersen,8.3,86.0,468.0,107.0
+Indiana Jones and the Last Crusade,1989,"Action, Adventure",USA,Steven Spielberg,8.2,65.0,527.0,160.0
+The Princess Bride,1987,"Adventure, Family, Fantasy",USA,Rob Reiner,8.1,77.0,807.0,208.0
+Stand by Me,1986,"Adventure, Drama",USA,Rob Reiner,8.1,75.0,665.0,127.0
+Kaze no tani no Naushika,1984,"Animation, Adventure, Fantasy","Japan, USA",Hayao Miyazaki,8.1,86.0,214.0,114.0
+Tenkû no shiro Rapyuta,1986,"Animation, Adventure, Drama",Japan,Hayao Miyazaki,8.0,78.0,212.0,147.0
+Majo no takkyûbin,1989,"Animation, Adventure, Drama",Japan,Hayao Miyazaki,7.9,83.0,192.0,115.0
+The Goonies,1985,"Adventure, Comedy, Family",USA,Richard Donner,7.8,62.0,466.0,108.0
+The Right Stuff,1983,"Adventure, Biography, Drama",USA,Philip Kaufman,7.8,91.0,187.0,86.0
+Star Trek II: The Wrath of Khan,1982,"Action, Adventure, Sci-Fi",USA,Nicholas Meyer,7.7,67.0,385.0,105.0
+Who Framed Roger Rabbit,1988,"Animation, Adventure, Comedy",USA,Robert Zemeckis,7.7,83.0,262.0,131.0
+First Blood,1982,"Action, Adventure",USA,Ted Kotcheff,7.7,61.0,441.0,194.0
+The Secret of NIMH,1982,"Animation, Adventure, Drama",USA,Don Bluth,7.6,76.0,164.0,52.0
+The Abyss,1989,"Adventure, Drama, Mystery",USA,James Cameron,7.6,62.0,415.0,99.0
+Mad Max 2,1981,"Action, Adventure, Sci-Fi",Australia,George Miller,7.6,77.0,336.0,197.0

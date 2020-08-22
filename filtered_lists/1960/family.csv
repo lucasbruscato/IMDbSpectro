@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Sound of Music,1965,"Biography, Drama, Family",USA,Robert Wise,8.0,63.0,452.0,131.0
+Mary Poppins,1964,"Comedy, Family, Fantasy",USA,Robert Stevenson,7.8,88.0,318.0,157.0
+My Fair Lady,1964,"Drama, Family, Musical",USA,George Cukor,7.8,95.0,296.0,89.0
+The Jungle Book,1967,"Animation, Adventure, Family",USA,Wolfgang Reitherman,7.6,65.0,158.0,126.0

@@ -1,0 +1,6 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Full Metal Jacket,1987,"Drama, War","UK, USA",Stanley Kubrick,8.3,76.0,801.0,149.0
+Platoon,1986,"Drama, War","USA, UK",Oliver Stone,8.1,92.0,575.0,133.0
+Kagemusha,1980,"Drama, History, War","Japan, USA",Akira Kurosawa,8.0,84.0,96.0,74.0
+'Breaker' Morant,1980,"Drama, History, War",Australia,Bruce Beresford,7.8,72.0,93.0,53.0
+Empire of the Sun,1987,"Drama, History, War",USA,Steven Spielberg,7.8,62.0,320.0,58.0

@@ -1,0 +1,35 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Departed,2006,"Crime, Drama, Thriller",USA,Martin Scorsese,8.5,85.0,2210.0,357.0
+Memento,2000,"Mystery, Thriller",USA,Christopher Nolan,8.4,80.0,2166.0,203.0
+The Lives of Others,2006,"Drama, Thriller",Germany,Florian Henckel von Donnersmarck,8.4,89.0,458.0,217.0
+Kill Bill: Vol. 1,2003,"Action, Crime, Thriller","USA, Japan",Quentin Tarantino,8.1,69.0,2207.0,380.0
+No Country for Old Men,2007,"Crime, Drama, Thriller",USA,"Ethan Coen, Joel Coen",8.1,91.0,1736.0,528.0
+Amores perros,2000,"Drama, Thriller",Mexico,Alejandro G. Iñárritu,8.1,83.0,384.0,165.0
+Kill Bill: Vol. 2,2004,"Action, Crime, Thriller",USA,Quentin Tarantino,8.0,83.0,979.0,317.0
+Blood Diamond,2006,"Adventure, Drama, Thriller","USA, Germany",Edward Zwick,8.0,64.0,704.0,171.0
+The Bourne Ultimatum,2007,"Action, Mystery, Thriller","USA, Germany, France, Spain",Paul Greengrass,8.0,85.0,858.0,334.0
+Sin City,2005,"Crime, Thriller",USA,"Frank Miller, Robert Rodriguez",8.0,74.0,1761.0,380.0
+Casino Royale,2006,"Action, Adventure, Thriller","UK, Czech Republic, USA, Germany, Bahamas",Martin Campbell,8.0,80.0,2345.0,340.0
+Darbareye Elly,2009,"Drama, Mystery, Thriller","Iran, France",Asghar Farhadi,8.0,87.0,70.0,147.0
+Donnie Darko,2001,"Drama, Sci-Fi, Thriller",USA,Richard Kelly,8.0,88.0,2233.0,364.0
+The Bourne Identity,2002,"Action, Mystery, Thriller","USA, Germany, Czech Republic",Doug Liman,7.9,68.0,884.0,248.0
+Children of Men,2006,"Drama, Thriller","USA, UK, Japan",Alfonso Cuarón,7.9,84.0,1310.0,315.0
+Chugyeogja,2008,"Action, Crime, Thriller",South Korea,Hong-jin Na,7.9,64.0,128.0,132.0
+Mulholland Dr.,2001,"Drama, Mystery, Thriller","France, USA",David Lynch,7.9,83.0,1871.0,309.0
+District 9,2009,"Action, Sci-Fi, Thriller","South Africa, USA, New Zealand, Canada",Neill Blomkamp,7.9,81.0,1337.0,479.0
+Nueve reinas,2000,"Crime, Drama, Thriller",Argentina,Fabián Bielinsky,7.9,80.0,128.0,99.0
+Madeo,2009,"Crime, Drama, Thriller",South Korea,Bong Joon Ho,7.8,79.0,112.0,210.0
+Crash,2004,"Crime, Drama, Thriller","USA, Germany",Paul Haggis,7.8,69.0,1646.0,290.0
+Ocean's Eleven,2001,"Crime, Thriller",USA,Steven Soderbergh,7.8,74.0,907.0,206.0
+12,2007,"Crime, Drama, Thriller",Russia,Nikita Mikhalkov,7.7,72.0,37.0,69.0
+Training Day,2001,"Crime, Drama, Thriller",USA,Antoine Fuqua,7.7,69.0,682.0,121.0
+21 Grams,2003,"Crime, Drama, Thriller",USA,Alejandro G. Iñárritu,7.7,70.0,569.0,200.0
+Zwartboek,2006,"Drama, Thriller, War","Netherlands, Germany, UK, Belgium",Paul Verhoeven,7.7,71.0,244.0,236.0
+Road to Perdition,2002,"Crime, Drama, Thriller",USA,Sam Mendes,7.7,72.0,1029.0,214.0
+The Bourne Supremacy,2004,"Action, Mystery, Thriller","USA, Germany",Paul Greengrass,7.7,73.0,830.0,244.0
+The Machinist,2004,"Drama, Thriller","Spain, France, UK, USA",Brad Anderson,7.7,61.0,511.0,222.0
+The Others,2001,"Horror, Mystery, Thriller","Spain, USA, France, Italy",Alejandro Amenábar,7.6,74.0,1129.0,253.0
+Chinjeolhan geumjassi,2005,"Crime, Drama, Thriller",South Korea,Chan-wook Park,7.6,75.0,144.0,211.0
+Traffic,2000,"Crime, Drama, Thriller","USA, Mexico, Germany",Steven Soderbergh,7.6,86.0,893.0,227.0
+The Hurt Locker,2008,"Drama, Thriller, War",USA,Kathryn Bigelow,7.6,95.0,939.0,397.0
+Match Point,2005,"Drama, Romance, Thriller","UK, Ireland, Luxembourg",Woody Allen,7.6,72.0,764.0,271.0

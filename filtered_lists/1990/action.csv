@@ -1,0 +1,12 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Matrix,1999,"Action, Sci-Fi",USA,"Lana Wachowski, Lilly Wachowski",8.7,73.0,4069.0,337.0
+Terminator 2: Judgment Day,1991,"Action, Sci-Fi",USA,James Cameron,8.5,75.0,1181.0,289.0
+Léon,1994,"Action, Crime, Drama",France,Luc Besson,8.5,64.0,1039.0,129.0
+Jurassic Park,1993,"Action, Adventure, Sci-Fi",USA,Steven Spielberg,8.1,68.0,1053.0,352.0
+Kôkaku Kidôtai,1995,"Animation, Action, Crime","Japan, UK",Mamoru Oshii,8.0,76.0,299.0,170.0
+The Iron Giant,1999,"Animation, Action, Adventure",USA,Brad Bird,8.0,85.0,567.0,190.0
+The Fugitive,1993,"Action, Crime, Drama",USA,Andrew Davis,7.8,87.0,312.0,125.0
+The Last of the Mohicans,1992,"Action, Adventure, Drama",USA,Michael Mann,7.7,76.0,425.0,92.0
+The Crow,1994,"Action, Drama, Fantasy",USA,Alex Proyas,7.6,71.0,585.0,143.0
+Jui kuen II,1994,"Action, Comedy",Hong Kong,"Chia-Liang Liu, Jackie Chan",7.6,74.0,156.0,86.0
+Star Trek: First Contact,1996,"Action, Adventure, Drama",USA,Jonathan Frakes,7.6,71.0,311.0,157.0

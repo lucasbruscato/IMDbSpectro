@@ -1,0 +1,3 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Shining,1980,"Drama, Horror","UK, USA",Stanley Kubrick,8.4,66.0,1624.0,337.0
+Evil Dead II,1987,"Comedy, Horror",USA,Sam Raimi,7.8,69.0,579.0,283.0

@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Star Wars,1977,"Action, Adventure, Fantasy",USA,George Lucas,8.6,90.0,1688.0,172.0
+Monty Python and the Holy Grail,1975,"Adventure, Comedy, Fantasy",UK,"Terry Gilliam, Terry Jones",8.2,93.0,738.0,102.0
+El espíritu de la colmena,1973,"Drama, Fantasy",Spain,Víctor Erice,7.9,87.0,95.0,83.0
+Willy Wonka & the Chocolate Factory,1971,"Family, Fantasy, Musical","USA, East Germany, West Germany",Mel Stuart,7.8,67.0,391.0,87.0

@@ -1,0 +1,21 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Sting,1973,"Comedy, Crime, Drama",USA,George Roy Hill,8.3,83.0,288.0,133.0
+Monty Python and the Holy Grail,1975,"Adventure, Comedy, Fantasy",UK,"Terry Gilliam, Terry Jones",8.2,93.0,738.0,102.0
+Life of Brian,1979,Comedy,UK,Terry Jones,8.1,77.0,366.0,149.0
+Paper Moon,1973,"Comedy, Drama",USA,Peter Bogdanovich,8.1,77.0,142.0,49.0
+Young Frankenstein,1974,Comedy,USA,Mel Brooks,8.0,80.0,355.0,114.0
+Annie Hall,1977,"Comedy, Romance",USA,Woody Allen,8.0,92.0,522.0,143.0
+Being There,1979,"Comedy, Drama","West Germany, USA",Hal Ashby,8.0,84.0,312.0,124.0
+Le charme discret de la bourgeoisie,1972,Comedy,France,Luis Buñuel,7.9,93.0,80.0,133.0
+Manhattan,1979,"Comedy, Drama, Romance",USA,Woody Allen,7.9,83.0,258.0,160.0
+Harold and Maude,1971,"Comedy, Drama, Romance",USA,Hal Ashby,7.9,62.0,333.0,88.0
+Cet obscur objet du désir,1977,"Comedy, Drama","France, Spain",Luis Buñuel,7.9,84.0,66.0,81.0
+Love and Death,1975,"Comedy, War",USA,Woody Allen,7.7,89.0,116.0,65.0
+Blazing Saddles,1974,"Comedy, Western",USA,Mel Brooks,7.7,73.0,405.0,113.0
+Nashville,1975,"Comedy, Drama, Music",USA,Robert Altman,7.7,96.0,173.0,103.0
+Breaking Away,1979,"Comedy, Drama, Romance",USA,Peter Yates,7.7,91.0,108.0,70.0
+Hair,1979,"Comedy, Drama, Musical","West Germany, USA",Milos Forman,7.6,68.0,167.0,48.0
+Little Big Man,1970,"Adventure, Comedy, Drama",USA,Arthur Penn,7.6,63.0,119.0,58.0
+The Long Goodbye,1973,"Comedy, Crime, Drama",USA,Robert Altman,7.6,87.0,167.0,141.0
+"Play It Again, Sam",1972,"Comedy, Romance",USA,Herbert Ross,7.6,77.0,91.0,53.0
+The Muppet Movie,1979,"Adventure, Comedy, Family","UK, USA",James Frawley,7.6,74.0,104.0,76.0

@@ -1,0 +1,8 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Schindler's List,1993,"Biography, Drama, History",USA,Steven Spielberg,8.9,94.0,1642.0,221.0
+Braveheart,1995,"Biography, Drama, History",USA,Mel Gibson,8.3,68.0,1194.0,151.0
+JFK,1991,"Drama, History, Thriller","France, USA",Oliver Stone,8.0,72.0,472.0,126.0
+Wo de fu qin mu qin,1999,"Drama, History, Romance",China,Yimou Zhang,7.8,71.0,143.0,79.0
+Malcolm X,1992,"Biography, Drama, History","USA, Japan",Spike Lee,7.7,72.0,175.0,68.0
+Europa Europa,1990,"Drama, History, War","Germany, France, Poland",Agnieszka Holland,7.6,75.0,78.0,26.0
+Apollo 13,1995,"Adventure, Drama, History",USA,Ron Howard,7.6,77.0,363.0,165.0

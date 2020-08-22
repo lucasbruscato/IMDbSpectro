@@ -1,0 +1,26 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Wolf of Wall Street,2013,"Biography, Crime, Drama",USA,Martin Scorsese,8.2,75.0,1308.0,638.0
+"Three Billboards Outside Ebbing, Missouri",2017,"Comedy, Crime, Drama","UK, USA",Martin McDonagh,8.2,88.0,1079.0,566.0
+Gangs of Wasseypur,2012,"Action, Comedy, Crime",India,Anurag Kashyap,8.2,89.0,205.0,111.0
+Prisoners,2013,"Crime, Drama, Mystery",USA,Denis Villeneuve,8.1,74.0,801.0,488.0
+Spotlight,2015,"Biography, Crime, Drama",USA,Tom McCarthy,8.1,93.0,552.0,518.0
+The Grand Budapest Hotel,2014,"Adventure, Comedy, Crime","Germany, USA",Wes Anderson,8.1,88.0,786.0,557.0
+Manbiki kazoku,2018,"Crime, Drama",Japan,Hirokazu Koreeda,8.0,93.0,158.0,241.0
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,"Action, Crime, Drama",Brazil,José Padilha,8.0,71.0,84.0,135.0
+Serbuan Maut 2: Berandal,2014,"Action, Crime, Thriller","Indonesia, USA",Gareth Evans,8.0,71.0,325.0,453.0
+Nightcrawler,2014,"Crime, Drama, Thriller",USA,Dan Gilroy,7.9,76.0,708.0,548.0
+The Hateful Eight,2015,"Crime, Drama, Mystery",USA,Quentin Tarantino,7.8,68.0,1340.0,680.0
+Loving Vincent,2017,"Animation, Biography, Crime","Poland, UK, USA, Switzerland, Netherlands","Dorota Kobiela, Hugh Welchman",7.8,62.0,178.0,217.0
+Drive,2011,"Crime, Drama",USA,Nicolas Winding Refn,7.8,78.0,1435.0,706.0
+Bir Zamanlar Anadolu'da,2011,"Crime, Drama","Turkey, Bosnia and Herzegovina",Nuri Bilge Ceylan,7.8,82.0,110.0,181.0
+Ang-ma-reul bo-at-da,2010,"Action, Crime, Drama",South Korea,Jee-woon Kim,7.8,67.0,260.0,282.0
+The Girl with the Dragon Tattoo,2011,"Crime, Drama, Mystery","USA, Sweden, Norway",David Fincher,7.8,71.0,690.0,531.0
+Victoria,2015,"Crime, Drama, Romance",Germany,Sebastian Schipper,7.7,77.0,154.0,265.0
+Wind River,2017,"Crime, Drama, Mystery","UK, Canada, USA",Taylor Sheridan,7.7,73.0,569.0,363.0
+L'insulte,2017,"Crime, Drama, Thriller","France, Cyprus, Belgium, Lebanon, USA",Ziad Doueiri,7.7,72.0,55.0,128.0
+Leviafan,2014,"Crime, Drama",Russia,Andrey Zvyagintsev,7.6,92.0,127.0,272.0
+End of Watch,2012,"Action, Crime, Drama",USA,David Ayer,7.6,68.0,379.0,365.0
+Sicario,2015,"Action, Crime, Drama","USA, Mexico",Denis Villeneuve,7.6,82.0,676.0,538.0
+Baby Driver,2017,"Action, Crime, Drama","UK, USA",Edgar Wright,7.6,86.0,996.0,569.0
+John Wick: Chapter 3 - Parabellum,2019,"Action, Crime, Thriller",USA,Chad Stahelski,7.6,73.0,1920.0,346.0
+Hell or High Water,2016,"Action, Crime, Drama",USA,David Mackenzie,7.6,88.0,405.0,422.0

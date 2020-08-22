@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Citizen Kane,1941,"Drama, Mystery",USA,Orson Welles,8.3,100.0,1371.0,265.0
+The Third Man,1949,"Film-Noir, Mystery, Thriller",UK,Carol Reed,8.1,97.0,455.0,240.0
+The Maltese Falcon,1941,"Film-Noir, Mystery",USA,John Huston,8.0,96.0,393.0,130.0
+Rope,1948,"Crime, Drama, Mystery",USA,Alfred Hitchcock,8.0,73.0,371.0,113.0

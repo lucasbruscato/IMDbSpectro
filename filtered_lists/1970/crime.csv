@@ -1,0 +1,18 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Godfather,1972,"Crime, Drama",USA,Francis Ford Coppola,9.2,100.0,3362.0,241.0
+The Godfather: Part II,1974,"Crime, Drama",USA,Francis Ford Coppola,9.0,90.0,857.0,172.0
+A Clockwork Orange,1971,"Crime, Drama, Sci-Fi","UK, USA",Stanley Kubrick,8.3,80.0,1481.0,168.0
+The Sting,1973,"Comedy, Crime, Drama",USA,George Roy Hill,8.3,83.0,288.0,133.0
+Taxi Driver,1976,"Crime, Drama",USA,Martin Scorsese,8.3,94.0,1057.0,283.0
+Le cercle rouge,1970,"Crime, Drama, Thriller","France, Italy",Jean-Pierre Melville,8.0,91.0,67.0,74.0
+Dog Day Afternoon,1975,"Biography, Crime, Drama",USA,Sidney Lumet,8.0,86.0,305.0,82.0
+Badlands,1973,"Crime, Drama",USA,Terrence Malick,7.8,93.0,222.0,136.0
+The Day of the Jackal,1973,"Crime, Drama, Thriller","UK, France",Fred Zinnemann,7.8,80.0,205.0,62.0
+Dirty Harry,1971,"Action, Crime, Thriller",USA,Don Siegel,7.7,90.0,338.0,136.0
+The French Connection,1971,"Action, Crime, Drama",USA,William Friedkin,7.7,94.0,311.0,159.0
+Enter the Dragon,1973,"Action, Crime, Drama","Hong Kong, USA",Robert Clouse,7.7,83.0,286.0,159.0
+Serpico,1973,"Biography, Crime, Drama","Italy, USA",Sidney Lumet,7.7,87.0,191.0,110.0
+The Taking of Pelham One Two Three,1974,"Action, Crime, Thriller",USA,Joseph Sargent,7.7,68.0,201.0,104.0
+Escape from Alcatraz,1979,"Biography, Crime, Drama",USA,Don Siegel,7.6,76.0,156.0,68.0
+The Long Goodbye,1973,"Comedy, Crime, Drama",USA,Robert Altman,7.6,87.0,167.0,141.0
+The Warriors,1979,"Action, Crime, Thriller",USA,Walter Hill,7.6,65.0,443.0,136.0

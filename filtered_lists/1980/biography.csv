@@ -1,0 +1,12 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Amadeus,1984,"Biography, Drama, History","USA, France, Czechoslovakia, Italy",Milos Forman,8.3,88.0,600.0,108.0
+Raging Bull,1980,"Biography, Drama, Sport",USA,Martin Scorsese,8.2,89.0,545.0,185.0
+The Elephant Man,1980,"Biography, Drama","USA, UK",David Lynch,8.1,77.0,395.0,139.0
+Gandhi,1982,"Biography, Drama, History","UK, India",Richard Attenborough,8.0,79.0,291.0,101.0
+My Left Foot: The Story of Christy Brown,1989,"Biography, Drama","Ireland, UK",Jim Sheridan,7.9,97.0,99.0,48.0
+My Dinner with Andre,1981,"Biography, Comedy, Drama",USA,Louis Malle,7.8,83.0,136.0,59.0
+The Right Stuff,1983,"Adventure, Biography, Drama",USA,Philip Kaufman,7.8,91.0,187.0,86.0
+The Killing Fields,1984,"Biography, Drama, History",UK,Roland Joffé,7.8,76.0,194.0,72.0
+Glory,1989,"Biography, Drama, History",USA,Edward Zwick,7.8,78.0,433.0,68.0
+Missing,1982,"Biography, Drama, History","USA, Mexico",Costa-Gavras,7.7,78.0,97.0,71.0
+The Last Emperor,1987,"Biography, Drama, History","UK, Italy, China, France",Bernardo Bertolucci,7.7,76.0,157.0,82.0

@@ -1,0 +1,9 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Back to the Future,1985,"Adventure, Comedy, Sci-Fi",USA,Robert Zemeckis,8.5,87.0,1050.0,233.0
+Aliens,1986,"Action, Adventure, Sci-Fi","USA, UK",James Cameron,8.4,84.0,1213.0,302.0
+Blade Runner,1982,"Action, Sci-Fi, Thriller","USA, Hong Kong, UK",Ridley Scott,8.1,89.0,1452.0,346.0
+The Terminator,1984,"Action, Sci-Fi","UK, USA",James Cameron,8.0,84.0,818.0,221.0
+Brazil,1985,"Drama, Sci-Fi","UK, USA",Terry Gilliam,7.9,88.0,553.0,239.0
+E.T. the Extra-Terrestrial,1982,"Family, Sci-Fi",USA,Steven Spielberg,7.8,91.0,564.0,246.0
+Star Trek II: The Wrath of Khan,1982,"Action, Adventure, Sci-Fi",USA,Nicholas Meyer,7.7,67.0,385.0,105.0
+Mad Max 2,1981,"Action, Adventure, Sci-Fi",Australia,George Miller,7.6,77.0,336.0,197.0

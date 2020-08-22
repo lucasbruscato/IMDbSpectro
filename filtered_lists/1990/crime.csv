@@ -1,0 +1,33 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Pulp Fiction,1994,"Crime, Drama",USA,Quentin Tarantino,8.9,94.0,2766.0,278.0
+Goodfellas,1990,"Biography, Crime, Drama",USA,Martin Scorsese,8.7,89.0,1158.0,229.0
+Se7en,1995,"Crime, Drama, Mystery",USA,David Fincher,8.6,65.0,1294.0,258.0
+The Silence of the Lambs,1991,"Crime, Drama, Thriller",USA,Jonathan Demme,8.6,85.0,1141.0,206.0
+The Green Mile,1999,"Crime, Drama, Fantasy",USA,Frank Darabont,8.6,61.0,1571.0,199.0
+The Usual Suspects,1995,"Crime, Mystery, Thriller","USA, Germany",Bryan Singer,8.5,77.0,1286.0,173.0
+Léon,1994,"Action, Crime, Drama",France,Luc Besson,8.5,64.0,1039.0,129.0
+Reservoir Dogs,1992,"Crime, Drama, Thriller",USA,Quentin Tarantino,8.3,79.0,1060.0,203.0
+Heat,1995,"Crime, Drama, Thriller",USA,Michael Mann,8.2,76.0,1008.0,203.0
+Casino,1995,"Crime, Drama","USA, France",Martin Scorsese,8.2,73.0,581.0,154.0
+"Lock, Stock and Two Smoking Barrels",1998,"Comedy, Crime",UK,Guy Ritchie,8.2,66.0,561.0,117.0
+L.A. Confidential,1997,"Crime, Drama, Mystery",USA,Curtis Hanson,8.2,90.0,679.0,131.0
+Fargo,1996,"Crime, Drama, Thriller","USA, UK","Joel Coen, Ethan Coen",8.1,85.0,913.0,225.0
+Chung Hing sam lam,1994,"Comedy, Crime, Drama",Hong Kong,Kar-Wai Wong,8.1,77.0,180.0,91.0
+"Crna macka, beli macor",1998,"Comedy, Crime, Romance","Federal Republic of Yugoslavia, France, Germany, Austria, Greece",Emir Kusturica,8.1,73.0,102.0,71.0
+The Big Lebowski,1998,"Comedy, Crime, Sport","USA, UK","Joel Coen, Ethan Coen",8.1,71.0,1155.0,186.0
+Kôkaku Kidôtai,1995,"Animation, Action, Crime","Japan, UK",Mamoru Oshii,8.0,76.0,299.0,170.0
+Carlito's Way,1993,"Crime, Drama, Thriller",USA,Brian De Palma,7.9,65.0,315.0,112.0
+The Fugitive,1993,"Action, Crime, Drama",USA,Andrew Davis,7.8,87.0,312.0,125.0
+A Bronx Tale,1993,"Crime, Drama, Romance",USA,Robert De Niro,7.8,80.0,211.0,55.0
+Miller's Crossing,1990,"Crime, Drama, Thriller",USA,"Joel Coen, Ethan Coen",7.8,66.0,329.0,150.0
+Glengarry Glen Ross,1992,"Crime, Drama, Mystery",USA,James Foley,7.8,80.0,390.0,122.0
+Donnie Brasco,1997,"Biography, Crime, Drama",USA,Mike Newell,7.7,76.0,253.0,127.0
+Lola rennt,1998,"Crime, Drama, Thriller",Germany,Tom Tykwer,7.7,77.0,727.0,188.0
+Do lok tin si,1995,"Comedy, Crime, Drama",Hong Kong,Kar-Wai Wong,7.7,71.0,75.0,77.0
+Boyz n the Hood,1991,"Crime, Drama",USA,John Singleton,7.7,76.0,219.0,80.0
+Fresh,1994,"Crime, Drama, Thriller","USA, France",Boaz Yakin,7.6,81.0,94.0,34.0
+Funny Games,1997,"Crime, Drama, Thriller",Austria,Michael Haneke,7.6,69.0,340.0,138.0
+A Perfect World,1993,"Crime, Drama, Thriller",USA,Clint Eastwood,7.6,71.0,141.0,68.0
+My Cousin Vinny,1992,"Comedy, Crime",USA,Jonathan Lynn,7.6,68.0,243.0,52.0
+Delicatessen,1991,"Comedy, Crime",France,"Marc Caro, Jean-Pierre Jeunet",7.6,66.0,182.0,59.0
+Ah fei zing zyun,1990,"Crime, Drama, Romance",Hong Kong,Kar-Wai Wong,7.6,96.0,43.0,63.0

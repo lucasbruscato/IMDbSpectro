@@ -1,0 +1,36 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Toy Story,1995,"Animation, Adventure, Comedy",USA,John Lasseter,8.3,95.0,538.0,193.0
+"Lock, Stock and Two Smoking Barrels",1998,"Comedy, Crime",UK,Guy Ritchie,8.2,66.0,561.0,117.0
+The Big Lebowski,1998,"Comedy, Crime, Sport","USA, UK","Joel Coen, Ethan Coen",8.1,71.0,1155.0,186.0
+"Crna macka, beli macor",1998,"Comedy, Crime, Romance","Federal Republic of Yugoslavia, France, Germany, Austria, Greece",Emir Kusturica,8.1,73.0,102.0,71.0
+Chung Hing sam lam,1994,"Comedy, Crime, Drama",Hong Kong,Kar-Wai Wong,8.1,77.0,180.0,91.0
+The Truman Show,1998,"Comedy, Drama, Sci-Fi",USA,Peter Weir,8.1,90.0,1065.0,251.0
+Groundhog Day,1993,"Comedy, Fantasy, Romance",USA,Harold Ramis,8.0,72.0,722.0,181.0
+Aladdin,1992,"Animation, Adventure, Comedy",USA,"Ron Clements, John Musker",8.0,86.0,294.0,154.0
+Toy Story 2,1999,"Animation, Adventure, Comedy",USA,"John Lasseter, Ash Brannon",7.9,88.0,568.0,210.0
+Kurenai no buta,1992,"Animation, Adventure, Comedy",Japan,Hayao Miyazaki,7.8,83.0,112.0,89.0
+Naked,1993,"Comedy, Drama",UK,Mike Leigh,7.8,84.0,135.0,70.0
+Night on Earth,1991,"Comedy, Drama","France, UK, Germany, USA, Japan",Jim Jarmusch,7.8,68.0,104.0,59.0
+Ed Wood,1994,"Biography, Comedy, Drama",USA,Tim Burton,7.8,70.0,450.0,167.0
+Rushmore,1998,"Comedy, Drama",USA,Wes Anderson,7.7,86.0,654.0,188.0
+Being John Malkovich,1999,"Comedy, Drama, Fantasy",USA,Spike Jonze,7.7,90.0,862.0,258.0
+Shall we dansu?,1996,"Comedy, Drama, Music",Japan,Masayuki Suo,7.7,68.0,100.0,86.0
+As Good as It Gets,1997,"Comedy, Drama, Romance",USA,James L. Brooks,7.7,67.0,515.0,140.0
+Le dîner de cons,1998,Comedy,France,Francis Veber,7.7,73.0,107.0,56.0
+Happiness,1998,"Comedy, Drama",USA,Todd Solondz,7.7,81.0,513.0,150.0
+Office Space,1999,Comedy,USA,Mike Judge,7.7,68.0,643.0,130.0
+Trois couleurs: Blanc,1994,"Comedy, Drama, Romance","Switzerland, France, Poland",Krzysztof Kieslowski,7.7,88.0,98.0,91.0
+"South Park: Bigger, Longer & Uncut",1999,"Animation, Comedy, Fantasy",USA,Trey Parker,7.7,73.0,948.0,163.0
+Do lok tin si,1995,"Comedy, Crime, Drama",Hong Kong,Kar-Wai Wong,7.7,71.0,75.0,77.0
+Barton Fink,1991,"Comedy, Drama, Thriller","USA, UK","Joel Coen, Ethan Coen",7.7,69.0,249.0,142.0
+Il postino,1994,"Biography, Comedy, Drama","Italy, France, Belgium","Michael Radford, Massimo Troisi",7.7,81.0,115.0,43.0
+Clerks,1994,Comedy,USA,Kevin Smith,7.7,70.0,637.0,135.0
+Short Cuts,1993,"Comedy, Drama",USA,Robert Altman,7.7,79.0,143.0,61.0
+The Muppet Christmas Carol,1992,"Comedy, Drama, Family","USA, UK",Brian Henson,7.7,64.0,169.0,77.0
+Jui kuen II,1994,"Action, Comedy",Hong Kong,"Chia-Liang Liu, Jackie Chan",7.6,74.0,156.0,86.0
+Dazed and Confused,1993,Comedy,USA,Richard Linklater,7.6,78.0,451.0,166.0
+My Cousin Vinny,1992,"Comedy, Crime",USA,Jonathan Lynn,7.6,68.0,243.0,52.0
+La fille sur le pont,1999,"Comedy, Drama, Romance",France,Patrice Leconte,7.6,75.0,66.0,73.0
+Delicatessen,1991,"Comedy, Crime",France,"Marc Caro, Jean-Pierre Jeunet",7.6,66.0,182.0,59.0
+The Commitments,1991,"Comedy, Drama, Music","Ireland, UK, USA",Alan Parker,7.6,73.0,113.0,66.0
+Home Alone,1990,"Comedy, Family",USA,Chris Columbus,7.6,63.0,374.0,127.0

@@ -1,0 +1,10 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Rear Window,1954,"Mystery, Thriller",USA,Alfred Hitchcock,8.4,100.0,759.0,145.0
+Vertigo,1958,"Mystery, Romance, Thriller",USA,Alfred Hitchcock,8.3,100.0,788.0,172.0
+North by Northwest,1959,"Adventure, Mystery, Thriller",USA,Alfred Hitchcock,8.3,98.0,569.0,164.0
+Dial M for Murder,1954,"Crime, Thriller",USA,Alfred Hitchcock,8.2,75.0,325.0,105.0
+Du rififi chez les hommes,1955,"Crime, Thriller",France,Jules Dassin,8.2,97.0,123.0,131.0
+On the Waterfront,1954,"Crime, Drama, Thriller",USA,Elia Kazan,8.1,91.0,312.0,156.0
+Strangers on a Train,1951,"Crime, Film-Noir, Thriller",USA,Alfred Hitchcock,8.0,88.0,309.0,115.0
+Ascenseur pour l'échafaud,1958,"Crime, Drama, Thriller",France,Louis Malle,8.0,94.0,88.0,124.0
+High Noon,1952,"Drama, Thriller, Western",USA,Fred Zinnemann,7.9,89.0,382.0,126.0

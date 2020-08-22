@@ -1,0 +1,13 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Psycho,1960,"Horror, Mystery, Thriller",USA,Alfred Hitchcock,8.5,97.0,1190.0,231.0
+What Ever Happened to Baby Jane?,1962,"Drama, Horror, Thriller",USA,Robert Aldrich,8.1,75.0,234.0,97.0
+Persona,1966,"Drama, Thriller",Sweden,Ingmar Bergman,8.1,86.0,208.0,136.0
+Fail-Safe,1964,"Drama, Thriller",USA,Sidney Lumet,8.0,75.0,154.0,45.0
+The Manchurian Candidate,1962,"Drama, Thriller",USA,John Frankenheimer,7.9,94.0,326.0,111.0
+Seven Days in May,1964,"Drama, Thriller",USA,John Frankenheimer,7.9,73.0,108.0,48.0
+Wait Until Dark,1967,"Horror, Thriller",USA,Terence Young,7.8,81.0,188.0,68.0
+Cape Fear,1962,"Drama, Thriller",USA,J. Lee Thompson,7.7,76.0,167.0,86.0
+Goldfinger,1964,"Action, Adventure, Thriller",UK,Guy Hamilton,7.7,87.0,455.0,119.0
+Repulsion,1965,"Drama, Horror, Thriller",UK,Roman Polanski,7.7,91.0,229.0,171.0
+Seconds,1966,"Sci-Fi, Thriller",USA,John Frankenheimer,7.7,71.0,142.0,130.0
+Blowup,1966,"Drama, Mystery, Thriller","UK, Italy",Michelangelo Antonioni,7.6,82.0,284.0,128.0

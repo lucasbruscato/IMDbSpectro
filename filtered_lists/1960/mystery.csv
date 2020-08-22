@@ -1,0 +1,6 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Psycho,1960,"Horror, Mystery, Thriller",USA,Alfred Hitchcock,8.5,97.0,1190.0,231.0
+In the Heat of the Night,1967,"Crime, Drama, Mystery",USA,Norman Jewison,8.0,75.0,207.0,107.0
+Charade,1963,"Comedy, Mystery, Romance",USA,Stanley Donen,7.9,83.0,291.0,114.0
+The Birds,1963,"Drama, Horror, Mystery",USA,Alfred Hitchcock,7.7,87.0,524.0,148.0
+Blowup,1966,"Drama, Mystery, Thriller","UK, Italy",Michelangelo Antonioni,7.6,82.0,284.0,128.0

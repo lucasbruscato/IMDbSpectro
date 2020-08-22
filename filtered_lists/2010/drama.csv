@@ -1,0 +1,157 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Interstellar,2014,"Adventure, Drama, Sci-Fi","USA, UK, Canada",Christopher Nolan,8.6,74.0,3571.0,612.0
+Gisaengchung,2019,"Comedy, Drama, Thriller",South Korea,Bong Joon Ho,8.6,95.0,379.0,285.0
+Whiplash,2014,"Drama, Music",USA,Damien Chazelle,8.5,88.0,1077.0,569.0
+Avengers: Endgame,2019,"Action, Adventure, Drama",USA,"Anthony Russo, Joe Russo",8.5,78.0,8302.0,531.0
+Capharnaüm,2018,Drama,"Lebanon, France, USA, Cyprus, Qatar",Nadine Labaki,8.4,75.0,215.0,166.0
+Django Unchained,2012,"Drama, Western",USA,Quentin Tarantino,8.4,81.0,1407.0,829.0
+Kimi no na wa.,2016,"Animation, Drama, Fantasy",Japan,Makoto Shinkai,8.4,79.0,468.0,215.0
+Jagten,2012,Drama,"Denmark, Sweden",Thomas Vinterberg,8.3,77.0,349.0,365.0
+Jodaeiye Nader az Simin,2011,Drama,"Iran, France",Asghar Farhadi,8.3,95.0,321.0,375.0
+The Lighthouse,2019,"Drama, Fantasy, Horror","Canada, USA",Robert Eggers,8.3,83.0,226.0,182.0
+Ford v Ferrari,2019,"Action, Biography, Drama","USA, France",James Mangold,8.3,80.0,166.0,158.0
+Incendies,2010,"Drama, Mystery, War","Canada, France",Denis Villeneuve,8.3,80.0,215.0,238.0
+Warrior,2011,"Drama, Sport",USA,Gavin O'Connor,8.2,71.0,615.0,333.0
+Mandariinid,2013,"Drama, War","Estonia, Georgia",Zaza Urushadze,8.2,73.0,71.0,118.0
+Gully Boy,2019,"Drama, Music",India,Zoya Akhtar,8.2,65.0,391.0,39.0
+Kis Uykusu,2014,Drama,"Turkey, France, Germany",Nuri Bilge Ceylan,8.2,88.0,87.0,201.0
+"Three Billboards Outside Ebbing, Missouri",2017,"Comedy, Crime, Drama","UK, USA",Martin McDonagh,8.2,88.0,1079.0,566.0
+Koe no katachi,2016,"Animation, Drama, Romance",Japan,Naoko Yamada,8.2,78.0,121.0,81.0
+The Wolf of Wall Street,2013,"Biography, Crime, Drama",USA,Martin Scorsese,8.2,75.0,1308.0,638.0
+Green Book,2018,"Biography, Comedy, Drama",USA,Peter Farrelly,8.2,69.0,1216.0,379.0
+Hacksaw Ridge,2016,"Biography, Drama, History","Australia, USA",Mel Gibson,8.1,71.0,805.0,464.0
+Relatos salvajes,2014,"Comedy, Drama, Thriller","Argentina, Spain",Damián Szifron,8.1,77.0,204.0,304.0
+Room,2015,"Drama, Thriller","Ireland, Canada, UK, USA",Lenny Abrahamson,8.1,86.0,570.0,470.0
+Logan,2017,"Action, Drama, Sci-Fi",USA,James Mangold,8.1,77.0,1489.0,622.0
+Rush,2013,"Biography, Drama, Sport","UK, Germany, USA",Ron Howard,8.1,75.0,541.0,419.0
+Mommy,2014,Drama,Canada,Xavier Dolan,8.1,74.0,57.0,249.0
+Spotlight,2015,"Biography, Crime, Drama",USA,Tom McCarthy,8.1,93.0,552.0,518.0
+Gone Girl,2014,"Drama, Mystery, Thriller",USA,David Fincher,8.1,79.0,1335.0,614.0
+The Help,2011,Drama,"USA, India, United Arab Emirates, UK, France, Canada, Germany",Tate Taylor,8.1,62.0,526.0,390.0
+Ah-ga-ssi,2016,"Drama, Romance, Thriller",South Korea,Chan-wook Park,8.1,84.0,172.0,330.0
+Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure, Drama, Fantasy","USA, UK",David Yates,8.1,87.0,905.0,478.0
+Prisoners,2013,"Crime, Drama, Mystery",USA,Denis Villeneuve,8.1,74.0,801.0,488.0
+Ookami kodomo no Ame to Yuki,2012,"Animation, Drama, Family",Japan,Mamoru Hosoda,8.1,71.0,84.0,86.0
+Ahlat Agaci,2018,Drama,"Turkey, Republic of Macedonia, France, Germany, Bosnia and Herzegovina, Bulgaria, Sweden",Nuri Bilge Ceylan,8.1,86.0,43.0,103.0
+Song of the Sea,2014,"Animation, Adventure, Drama","Ireland, Denmark, Belgium, Luxembourg, France",Tomm Moore,8.1,85.0,112.0,159.0
+12 Years a Slave,2013,"Biography, Drama, History","USA, UK",Steve McQueen,8.1,96.0,814.0,609.0
+Her,2013,"Drama, Romance, Sci-Fi",USA,Spike Jonze,8.0,90.0,957.0,600.0
+Short Term 12,2013,Drama,USA,Destin Daniel Cretton,8.0,82.0,154.0,266.0
+Wonder,2017,"Drama, Family","USA, Hong Kong",Stephen Chbosky,8.0,66.0,396.0,225.0
+Kaguyahime no monogatari,2013,"Animation, Adventure, Drama",Japan,Isao Takahata,8.0,89.0,103.0,177.0
+Blade Runner 2049,2017,"Action, Drama, Mystery","USA, UK, Hungary, Canada, Spain",Denis Villeneuve,8.0,81.0,2165.0,628.0
+The Martian,2015,"Adventure, Drama, Sci-Fi","UK, USA, Hungary",Ridley Scott,8.0,80.0,1231.0,616.0
+The Perks of Being a Wallflower,2012,Drama,USA,Stephen Chbosky,8.0,67.0,552.0,378.0
+Sing Street,2016,"Comedy, Drama, Music","Ireland, UK, USA",John Carney,8.0,79.0,177.0,319.0
+Dallas Buyers Club,2013,"Biography, Drama",USA,Jean-Marc Vallée,8.0,84.0,373.0,488.0
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,"Action, Crime, Drama",Brazil,José Padilha,8.0,71.0,84.0,135.0
+The Imitation Game,2014,"Biography, Drama, Thriller","UK, USA",Morten Tyldum,8.0,73.0,777.0,479.0
+Lion,2016,"Biography, Drama","UK, Australia, USA",Garth Davis,8.0,69.0,498.0,372.0
+The King's Speech,2010,"Biography, Drama, History","UK, USA, Australia",Tom Hooper,8.0,88.0,701.0,486.0
+Black Swan,2010,"Drama, Thriller",USA,Darren Aronofsky,8.0,79.0,1222.0,685.0
+La La Land,2016,"Comedy, Drama, Music","USA, Hong Kong",Damien Chazelle,8.0,93.0,1628.0,672.0
+Manbiki kazoku,2018,"Crime, Drama",Japan,Hirokazu Koreeda,8.0,93.0,158.0,241.0
+Once Upon a Time... in Hollywood,2019,"Comedy, Drama","USA, UK, China",Quentin Tarantino,8.0,83.0,3049.0,522.0
+"I, Daniel Blake",2016,Drama,"UK, France, Belgium","Ken Loach, Laura Obiols",7.9,78.0,174.0,251.0
+Call Me by Your Name,2017,"Drama, Romance","Italy, France",Luca Guadagnino,7.9,93.0,788.0,459.0
+El abrazo de la serpiente,2015,"Adventure, Drama","Colombia, Venezuela, Argentina",Ciro Guerra,7.9,82.0,66.0,211.0
+Dunkirk,2017,"Action, Drama, History","UK, Netherlands, France, USA",Christopher Nolan,7.9,94.0,2222.0,608.0
+Hunt for the Wilderpeople,2016,"Adventure, Comedy, Drama",New Zealand,Taika Waititi,7.9,81.0,208.0,243.0
+Nightcrawler,2014,"Crime, Drama, Thriller",USA,Dan Gilroy,7.9,76.0,708.0,548.0
+Before Midnight,2013,"Drama, Romance","USA, Greece",Richard Linklater,7.9,94.0,293.0,431.0
+Captain Fantastic,2016,"Comedy, Drama",USA,Matt Ross,7.9,72.0,414.0,310.0
+Life of Pi,2012,"Adventure, Drama, Fantasy","USA, Taiwan, UK, Canada",Ang Lee,7.9,79.0,841.0,562.0
+Arrival,2016,"Drama, Mystery, Sci-Fi","USA, Canada, India",Denis Villeneuve,7.9,81.0,1734.0,708.0
+The Farewell,2019,"Comedy, Drama",USA,Lulu Wang,7.9,89.0,131.0,153.0
+Straight Outta Compton,2015,"Biography, Drama, History",USA,F. Gary Gray,7.9,72.0,376.0,381.0
+Hoje Eu Quero Voltar Sozinho,2014,"Drama, Romance",Brazil,Daniel Ribeiro,7.9,71.0,61.0,109.0
+Boyhood,2014,Drama,USA,Richard Linklater,7.9,100.0,949.0,576.0
+The Artist,2011,"Comedy, Drama, Romance","France, Belgium, USA",Michel Hazanavicius,7.9,89.0,636.0,584.0
+Amour,2012,"Drama, Romance","Austria, France, Germany",Michael Haneke,7.9,94.0,210.0,461.0
+Ang-ma-reul bo-at-da,2010,"Action, Crime, Drama",South Korea,Jee-woon Kim,7.8,67.0,260.0,282.0
+The Hateful Eight,2015,"Crime, Drama, Mystery",USA,Quentin Tarantino,7.8,68.0,1340.0,680.0
+The Girl with the Dragon Tattoo,2011,"Crime, Drama, Mystery","USA, Sweden, Norway",David Fincher,7.8,71.0,690.0,531.0
+The Big Short,2015,"Biography, Comedy, Drama",USA,Adam McKay,7.8,81.0,479.0,468.0
+Roma,2018,Drama,Mexico,Alfonso Cuarón,7.8,96.0,1044.0,378.0
+Pride,2014,"Biography, Comedy, Drama","UK, France",Matthew Warchus,7.8,79.0,163.0,218.0
+The Peanut Butter Falcon,2019,"Adventure, Comedy, Drama",USA,"Tyler Nilson, Michael Schwartz",7.8,70.0,170.0,136.0
+Hidden Figures,2016,"Biography, Drama, History",USA,Theodore Melfi,7.8,74.0,451.0,418.0
+A torinói ló,2011,Drama,"Hungary, France, Switzerland, Germany, USA","Béla Tarr, Ágnes Hranitzky",7.8,80.0,67.0,174.0
+Captain Phillips,2013,"Biography, Drama, Thriller",USA,Paul Greengrass,7.8,83.0,600.0,505.0
+Forushande,2016,"Drama, Thriller","Iran, France",Asghar Farhadi,7.8,85.0,92.0,307.0
+Manchester by the Sea,2016,Drama,USA,Kenneth Lonergan,7.8,96.0,720.0,492.0
+Under sandet,2015,"Drama, History, War","Denmark, Germany",Martin Zandvliet,7.8,75.0,70.0,154.0
+The Broken Circle Breakdown,2012,"Drama, Music, Romance","Belgium, Netherlands",Felix van Groeningen,7.8,70.0,67.0,206.0
+Que Horas Ela Volta?,2015,"Comedy, Drama",Brazil,Anna Muylaert,7.8,82.0,38.0,123.0
+Dabba,2013,"Drama, Romance","India, France, Germany, USA, Canada",Ritesh Batra,7.8,76.0,187.0,201.0
+Ma vie de Courgette,2016,"Animation, Comedy, Drama","Switzerland, France",Claude Barras,7.8,85.0,51.0,191.0
+Kaze tachinu,2013,"Animation, Biography, Drama",Japan,Hayao Miyazaki,7.8,83.0,143.0,319.0
+Taeksi woonjunsa,2017,"Action, Drama, History",South Korea,Hun Jang,7.8,69.0,31.0,46.0
+Bir Zamanlar Anadolu'da,2011,"Crime, Drama","Turkey, Bosnia and Herzegovina",Nuri Bilge Ceylan,7.8,82.0,110.0,181.0
+Le passé,2013,"Drama, Mystery","France, Italy, Belgium, Iran",Asghar Farhadi,7.8,85.0,89.0,317.0
+Moonrise Kingdom,2012,"Comedy, Drama, Romance",USA,Wes Anderson,7.8,84.0,421.0,501.0
+Drive,2011,"Crime, Drama",USA,Nicolas Winding Refn,7.8,78.0,1435.0,706.0
+La grande bellezza,2013,Drama,"Italy, France",Paolo Sorrentino,7.8,86.0,148.0,292.0
+The Fighter,2010,"Biography, Drama, Sport",USA,David O. Russell,7.8,79.0,427.0,407.0
+Soshite chichi ni naru,2013,Drama,Japan,Hirokazu Koreeda,7.8,73.0,41.0,195.0
+The Breadwinner,2017,"Animation, Drama, Family","Ireland, Canada, Luxembourg, USA, UK, Philippines, India",Nora Twomey,7.7,78.0,72.0,108.0
+Dolor y gloria,2019,Drama,"Spain, France",Pedro Almodóvar,7.7,88.0,86.0,202.0
+En man som heter Ove,2015,"Comedy, Drama, Romance",Sweden,Hannes Holm,7.7,70.0,76.0,150.0
+God's Own Country,2017,"Drama, Romance",UK,Francis Lee,7.7,85.0,136.0,132.0
+Victoria,2015,"Crime, Drama, Romance",Germany,Sebastian Schipper,7.7,77.0,154.0,265.0
+Downton Abbey,2019,"Drama, Romance",UK,Michael Engler,7.7,64.0,300.0,141.0
+Argo,2012,"Biography, Drama, Thriller","USA, UK",Ben Affleck,7.7,86.0,755.0,663.0
+Beasts of No Nation,2015,"Drama, War",USA,Cary Joji Fukunaga,7.7,79.0,165.0,184.0
+Searching,2018,"Drama, Mystery, Thriller","Russia, USA",Aneesh Chaganty,7.7,71.0,985.0,279.0
+Silver Linings Playbook,2012,"Comedy, Drama, Romance",USA,David O. Russell,7.7,81.0,789.0,543.0
+L'insulte,2017,"Crime, Drama, Thriller","France, Cyprus, Belgium, Lebanon, USA",Ziad Doueiri,7.7,72.0,55.0,128.0
+The Social Network,2010,"Biography, Drama",USA,David Fincher,7.7,95.0,792.0,577.0
+Wind River,2017,"Crime, Drama, Mystery","UK, Canada, USA",Taylor Sheridan,7.7,73.0,569.0,363.0
+Only the Brave,2017,"Action, Biography, Drama",USA,Joseph Kosinski,7.7,72.0,178.0,171.0
+Gravity,2013,"Drama, Sci-Fi, Thriller","UK, USA",Alfonso Cuarón,7.7,96.0,2027.0,772.0
+Omoide no Mânî,2014,"Animation, Drama, Family",Japan,"James Simone, Hiromasa Yonebayashi",7.7,72.0,74.0,167.0
+A Star Is Born,2018,"Drama, Music, Romance",USA,Bradley Cooper,7.7,88.0,2568.0,458.0
+The Fault in Our Stars,2014,"Drama, Romance",USA,Josh Boone,7.7,69.0,640.0,332.0
+Me and Earl and the Dying Girl,2015,"Comedy, Drama, Romance",USA,Alfonso Gomez-Rejon,7.7,74.0,219.0,312.0
+The Theory of Everything,2014,"Biography, Drama, Romance","UK, Japan, USA",James Marsh,7.7,72.0,463.0,430.0
+Birdman or (The Unexpected Virtue of Ignorance),2014,"Comedy, Drama",USA,Alejandro G. Iñárritu,7.7,87.0,1299.0,615.0
+Ex Machina,2014,"Drama, Mystery, Sci-Fi",UK,Alex Garland,7.7,78.0,814.0,510.0
+Laurence Anyways,2012,"Drama, Romance","Canada, France",Xavier Dolan,7.7,73.0,20.0,144.0
+Le Petit Prince,2015,"Animation, Adventure, Drama",France,Mark Osborne,7.7,70.0,122.0,158.0
+Nebraska,2013,"Adventure, Comedy, Drama",USA,Alexander Payne,7.7,86.0,303.0,444.0
+La vie d'Adèle,2013,"Drama, Romance","France, Tunisia, Belgium, Spain",Abdellatif Kechiche,7.7,88.0,305.0,438.0
+Beoning,2018,"Drama, Mystery","South Korea, Japan",Chang-dong Lee,7.6,90.0,176.0,227.0
+Moneyball,2011,"Biography, Drama, Sport",USA,Bennett Miller,7.6,87.0,372.0,433.0
+End of Watch,2012,"Action, Crime, Drama",USA,David Ayer,7.6,68.0,379.0,365.0
+Hell or High Water,2016,"Action, Crime, Drama",USA,David Mackenzie,7.6,88.0,405.0,422.0
+Nelyubov,2017,Drama,"Russia, France, Germany, Belgium",Andrey Zvyagintsev,7.6,86.0,68.0,237.0
+Zimna wojna,2018,"Drama, History, Music","Poland, UK, France",Pawel Pawlikowski,7.6,90.0,180.0,270.0
+The Boy Who Harnessed the Wind,2019,Drama,"UK, Malawi",Chiwetel Ejiofor,7.6,68.0,109.0,40.0
+Tyrannosaur,2011,Drama,UK,Paddy Considine,7.6,65.0,98.0,232.0
+La piel que habito,2011,"Drama, Horror, Thriller","Spain, USA",Pedro Almodóvar,7.6,70.0,176.0,421.0
+Weekend,2011,"Drama, Romance",UK,Andrew Haigh,7.6,81.0,78.0,143.0
+Les Misérables,2012,"Drama, History, Musical","UK, USA",Tom Hooper,7.6,63.0,929.0,502.0
+Philomena,2013,"Biography, Comedy, Drama","UK, USA, France",Stephen Frears,7.6,77.0,252.0,349.0
+"Oslo, 31. august",2011,Drama,Norway,Joachim Trier,7.6,84.0,34.0,169.0
+The Florida Project,2017,Drama,USA,Sean Baker,7.6,92.0,392.0,360.0
+Hotel Mumbai,2018,"Drama, History, Thriller","Australia, USA, UK, India, Singapore",Anthony Maras,7.6,62.0,325.0,150.0
+Teströl és lélekröl,2017,"Drama, Fantasy, Mystery",Hungary,Ildikó Enyedi,7.6,77.0,52.0,171.0
+The Big Sick,2017,"Comedy, Drama, Romance",USA,Michael Showalter,7.6,86.0,327.0,328.0
+Baby Driver,2017,"Action, Crime, Drama","UK, USA",Edgar Wright,7.6,86.0,996.0,569.0
+Maudie,2016,"Biography, Drama, Romance","Ireland, Canada",Aisling Walsh,7.6,65.0,94.0,368.0
+Mustang,2015,Drama,"Turkey, France, Germany, Qatar",Deniz Gamze Ergüven,7.6,83.0,75.0,252.0
+Jûsan-nin no shikaku,2010,"Action, Adventure, Drama","Japan, UK",Takashi Miike,7.6,84.0,139.0,287.0
+Bridge of Spies,2015,"Drama, History, Thriller","Germany, India, USA",Steven Spielberg,7.6,81.0,444.0,498.0
+127 Hours,2010,"Biography, Drama","USA, UK, France",Danny Boyle,7.6,82.0,468.0,459.0
+True Grit,2010,"Drama, Western",USA,"Ethan Coen, Joel Coen",7.6,80.0,782.0,515.0
+Sicario,2015,"Action, Crime, Drama","USA, Mexico",Denis Villeneuve,7.6,82.0,676.0,538.0
+Creed,2015,"Drama, Sport",USA,Ryan Coogler,7.6,82.0,500.0,492.0
+Lo imposible,2012,"Drama, History, Thriller","Spain, USA",J.A. Bayona,7.6,73.0,399.0,381.0
+Hævnen,2010,"Drama, Romance","Denmark, Sweden",Susanne Bier,7.6,65.0,92.0,207.0
+Rise of the Planet of the Apes,2011,"Action, Drama, Sci-Fi","USA, UK, Canada",Rupert Wyatt,7.6,68.0,693.0,553.0
+The Favourite,2018,"Biography, Drama, History","Ireland, UK, USA",Yorgos Lanthimos,7.6,90.0,1100.0,415.0
+"Love, Simon",2018,"Comedy, Drama, Romance",USA,Greg Berlanti,7.6,72.0,507.0,250.0
+Leviafan,2014,"Crime, Drama",Russia,Andrey Zvyagintsev,7.6,92.0,127.0,272.0
+50/50,2011,"Comedy, Drama, Romance",USA,Jonathan Levine,7.6,72.0,418.0,334.0
+Fury,2014,"Action, Drama, War","USA, China, UK",David Ayer,7.6,64.0,837.0,427.0
+Dawn of the Planet of the Apes,2014,"Action, Adventure, Drama","USA, UK, Canada",Matt Reeves,7.6,79.0,665.0,549.0

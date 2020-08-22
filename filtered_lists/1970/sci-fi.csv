@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Alien,1979,"Horror, Sci-Fi","UK, USA",Ridley Scott,8.4,89.0,1353.0,448.0
+A Clockwork Orange,1971,"Crime, Drama, Sci-Fi","UK, USA",Stanley Kubrick,8.3,80.0,1481.0,168.0
+Solaris,1972,"Drama, Mystery, Sci-Fi",Soviet Union,Andrei Tarkovsky,8.1,90.0,287.0,190.0
+Close Encounters of the Third Kind,1977,"Drama, Sci-Fi",USA,Steven Spielberg,7.6,90.0,410.0,220.0

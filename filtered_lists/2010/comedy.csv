@@ -1,0 +1,48 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Gisaengchung,2019,"Comedy, Drama, Thriller",South Korea,Bong Joon Ho,8.6,95.0,379.0,285.0
+Toy Story 3,2010,"Animation, Adventure, Comedy",USA,Lee Unkrich,8.3,92.0,825.0,474.0
+Inside Out,2015,"Animation, Adventure, Comedy",USA,"Pete Docter, Ronnie Del Carmen",8.2,94.0,972.0,579.0
+Green Book,2018,"Biography, Comedy, Drama",USA,Peter Farrelly,8.2,69.0,1216.0,379.0
+Gangs of Wasseypur,2012,"Action, Comedy, Crime",India,Anurag Kashyap,8.2,89.0,205.0,111.0
+"Three Billboards Outside Ebbing, Missouri",2017,"Comedy, Crime, Drama","UK, USA",Martin McDonagh,8.2,88.0,1079.0,566.0
+Relatos salvajes,2014,"Comedy, Drama, Thriller","Argentina, Spain",Damián Szifron,8.1,77.0,204.0,304.0
+The Grand Budapest Hotel,2014,"Adventure, Comedy, Crime","Germany, USA",Wes Anderson,8.1,88.0,786.0,557.0
+Sing Street,2016,"Comedy, Drama, Music","Ireland, UK, USA",John Carney,8.0,79.0,177.0,319.0
+Guardians of the Galaxy,2014,"Action, Adventure, Comedy",USA,James Gunn,8.0,76.0,1327.0,707.0
+Zootopia,2016,"Animation, Adventure, Comedy",USA,"Byron Howard, Rich Moore",8.0,78.0,642.0,474.0
+Deadpool,2016,"Action, Adventure, Comedy",USA,Tim Miller,8.0,65.0,1409.0,653.0
+Once Upon a Time... in Hollywood,2019,"Comedy, Drama","USA, UK, China",Quentin Tarantino,8.0,83.0,3049.0,522.0
+La La Land,2016,"Comedy, Drama, Music","USA, Hong Kong",Damien Chazelle,8.0,93.0,1628.0,672.0
+Captain Fantastic,2016,"Comedy, Drama",USA,Matt Ross,7.9,72.0,414.0,310.0
+Thor: Ragnarok,2017,"Action, Adventure, Comedy",USA,Taika Waititi,7.9,74.0,1464.0,509.0
+Hunt for the Wilderpeople,2016,"Adventure, Comedy, Drama",New Zealand,Taika Waititi,7.9,81.0,208.0,243.0
+Isle of Dogs,2018,"Animation, Adventure, Comedy","Germany, USA",Wes Anderson,7.9,82.0,407.0,376.0
+The Farewell,2019,"Comedy, Drama",USA,Lulu Wang,7.9,89.0,131.0,153.0
+Toy Story 4,2019,"Animation, Adventure, Comedy",USA,Josh Cooley,7.9,84.0,1089.0,341.0
+Ernest et Célestine,2012,"Animation, Adventure, Comedy","France, Belgium, Luxembourg","Stéphane Aubier, Vincent Patar",7.9,86.0,45.0,103.0
+The Artist,2011,"Comedy, Drama, Romance","France, Belgium, USA",Michel Hazanavicius,7.9,89.0,636.0,584.0
+Ma vie de Courgette,2016,"Animation, Comedy, Drama","Switzerland, France",Claude Barras,7.8,85.0,51.0,191.0
+The Big Short,2015,"Biography, Comedy, Drama",USA,Adam McKay,7.8,81.0,479.0,468.0
+Pride,2014,"Biography, Comedy, Drama","UK, France",Matthew Warchus,7.8,79.0,163.0,218.0
+Paddington 2,2017,"Adventure, Comedy, Family","UK, France, USA",Paul King,7.8,88.0,215.0,413.0
+The Peanut Butter Falcon,2019,"Adventure, Comedy, Drama",USA,"Tyler Nilson, Michael Schwartz",7.8,70.0,170.0,136.0
+Moonrise Kingdom,2012,"Comedy, Drama, Romance",USA,Wes Anderson,7.8,84.0,421.0,501.0
+Que Horas Ela Volta?,2015,"Comedy, Drama",Brazil,Anna Muylaert,7.8,82.0,38.0,123.0
+En man som heter Ove,2015,"Comedy, Drama, Romance",Sweden,Hannes Holm,7.7,70.0,76.0,150.0
+Silver Linings Playbook,2012,"Comedy, Drama, Romance",USA,David O. Russell,7.7,81.0,789.0,543.0
+Deadpool 2,2018,"Action, Adventure, Comedy",USA,David Leitch,7.7,66.0,1260.0,515.0
+Midnight in Paris,2011,"Comedy, Fantasy, Romance","Spain, USA, France",Woody Allen,7.7,81.0,579.0,517.0
+Tangled,2010,"Animation, Adventure, Comedy",USA,"Nathan Greno, Byron Howard",7.7,71.0,445.0,337.0
+Wreck-It Ralph,2012,"Animation, Adventure, Comedy",USA,Rich Moore,7.7,72.0,419.0,392.0
+What We Do in the Shadows,2014,"Comedy, Horror",New Zealand,"Jemaine Clement, Taika Waititi",7.7,76.0,304.0,301.0
+Nebraska,2013,"Adventure, Comedy, Drama",USA,Alexander Payne,7.7,86.0,303.0,444.0
+Me and Earl and the Dying Girl,2015,"Comedy, Drama, Romance",USA,Alfonso Gomez-Rejon,7.7,74.0,219.0,312.0
+Birdman or (The Unexpected Virtue of Ignorance),2014,"Comedy, Drama",USA,Alejandro G. Iñárritu,7.7,87.0,1299.0,615.0
+Philomena,2013,"Biography, Comedy, Drama","UK, USA, France",Stephen Frears,7.6,77.0,252.0,349.0
+Moana,2016,"Animation, Adventure, Comedy",USA,"Ron Clements, John Musker",7.6,81.0,464.0,384.0
+Despicable Me,2010,"Animation, Comedy, Family","USA, France","Pierre Coffin, Chris Renaud",7.6,72.0,328.0,317.0
+"Love, Simon",2018,"Comedy, Drama, Romance",USA,Greg Berlanti,7.6,72.0,507.0,250.0
+The Big Sick,2017,"Comedy, Drama, Romance",USA,Michael Showalter,7.6,86.0,327.0,328.0
+50/50,2011,"Comedy, Drama, Romance",USA,Jonathan Levine,7.6,72.0,418.0,334.0
+Kick-Ass,2010,"Action, Adventure, Comedy","UK, USA",Matthew Vaughn,7.6,66.0,827.0,456.0
+Guardians of the Galaxy Vol. 2,2017,"Action, Adventure, Comedy",USA,James Gunn,7.6,67.0,971.0,572.0

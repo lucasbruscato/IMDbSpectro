@@ -1,0 +1,7 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Dog Day Afternoon,1975,"Biography, Crime, Drama",USA,Sidney Lumet,8.0,86.0,305.0,82.0
+All the President's Men,1976,"Biography, Drama, History",USA,Alan J. Pakula,8.0,80.0,237.0,147.0
+Patton,1970,"Biography, Drama, War",USA,Franklin J. Schaffner,7.9,91.0,277.0,120.0
+Serpico,1973,"Biography, Crime, Drama","Italy, USA",Sidney Lumet,7.7,87.0,191.0,110.0
+Lenny,1974,"Biography, Drama",USA,Bob Fosse,7.6,61.0,66.0,63.0
+Escape from Alcatraz,1979,"Biography, Crime, Drama",USA,Don Siegel,7.6,76.0,156.0,68.0

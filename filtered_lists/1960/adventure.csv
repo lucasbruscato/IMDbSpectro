@@ -1,0 +1,13 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Lawrence of Arabia,1962,"Adventure, Biography, Drama",UK,David Lean,8.3,100.0,624.0,194.0
+2001: A Space Odyssey,1968,"Adventure, Sci-Fi","UK, USA",Stanley Kubrick,8.3,82.0,2013.0,254.0
+The Great Escape,1963,"Adventure, Drama, History",USA,John Sturges,8.2,87.0,339.0,102.0
+Planet of the Apes,1968,"Adventure, Sci-Fi",USA,Franklin J. Schaffner,8.0,79.0,431.0,147.0
+Spartacus,1960,"Adventure, Biography, Drama",USA,Stanley Kubrick,7.9,87.0,293.0,123.0
+The Wild Bunch,1969,"Action, Adventure, Western",USA,Sam Peckinpah,7.9,95.0,313.0,118.0
+The Dirty Dozen,1967,"Action, Adventure, War","UK, USA",Robert Aldrich,7.8,73.0,184.0,85.0
+The Magnificent Seven,1960,"Action, Adventure, Western","USA, Philippines",John Sturges,7.7,74.0,282.0,124.0
+Goldfinger,1964,"Action, Adventure, Thriller",UK,Guy Hamilton,7.7,87.0,455.0,119.0
+Where Eagles Dare,1968,"Action, Adventure, War","UK, USA",Brian G. Hutton,7.7,63.0,255.0,54.0
+The Time Machine,1960,"Adventure, Romance, Sci-Fi",USA,George Pal,7.6,67.0,221.0,73.0
+The Jungle Book,1967,"Animation, Adventure, Family",USA,Wolfgang Reitherman,7.6,65.0,158.0,126.0

@@ -1,0 +1,56 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Godfather,1972,"Crime, Drama",USA,Francis Ford Coppola,9.2,100.0,3362.0,241.0
+The Godfather: Part II,1974,"Crime, Drama",USA,Francis Ford Coppola,9.0,90.0,857.0,172.0
+One Flew Over the Cuckoo's Nest,1975,Drama,USA,Milos Forman,8.7,83.0,888.0,164.0
+Apocalypse Now,1979,"Drama, Mystery, War",USA,"Francis Ford Coppola, Francis Ford Coppola",8.4,94.0,1115.0,312.0
+Taxi Driver,1976,"Crime, Drama",USA,Martin Scorsese,8.3,94.0,1057.0,283.0
+A Clockwork Orange,1971,"Crime, Drama, Sci-Fi","UK, USA",Stanley Kubrick,8.3,80.0,1481.0,168.0
+The Sting,1973,"Comedy, Crime, Drama",USA,George Roy Hill,8.3,83.0,288.0,133.0
+A Woman Under the Influence,1974,"Drama, Romance",USA,John Cassavetes,8.2,88.0,108.0,89.0
+Chinatown,1974,"Drama, Mystery, Thriller",USA,Roman Polanski,8.2,92.0,509.0,255.0
+Rocky,1976,"Drama, Sport",USA,John G. Avildsen,8.1,70.0,652.0,176.0
+Network,1976,Drama,USA,Sidney Lumet,8.1,83.0,381.0,167.0
+Paper Moon,1973,"Comedy, Drama",USA,Peter Bogdanovich,8.1,77.0,142.0,49.0
+The Deer Hunter,1978,"Drama, War",USA,Michael Cimino,8.1,86.0,1105.0,157.0
+Barry Lyndon,1975,"Adventure, Drama, History","UK, USA",Stanley Kubrick,8.1,89.0,429.0,101.0
+Solaris,1972,"Drama, Mystery, Sci-Fi",Soviet Union,Andrei Tarkovsky,8.1,90.0,287.0,190.0
+All the President's Men,1976,"Biography, Drama, History",USA,Alan J. Pakula,8.0,80.0,237.0,147.0
+Dog Day Afternoon,1975,"Biography, Crime, Drama",USA,Sidney Lumet,8.0,86.0,305.0,82.0
+Being There,1979,"Comedy, Drama","West Germany, USA",Hal Ashby,8.0,84.0,312.0,124.0
+Il conformista,1970,Drama,"Italy, France, West Germany",Bernardo Bertolucci,8.0,100.0,110.0,127.0
+Jaws,1975,"Adventure, Drama, Thriller",USA,Steven Spielberg,8.0,87.0,1150.0,282.0
+Le cercle rouge,1970,"Crime, Drama, Thriller","France, Italy",Jean-Pierre Melville,8.0,91.0,67.0,74.0
+Fiddler on the Roof,1971,"Drama, Family, Musical",USA,Norman Jewison,8.0,67.0,162.0,71.0
+The Last Picture Show,1971,Drama,USA,Peter Bogdanovich,8.0,93.0,185.0,91.0
+All That Jazz,1979,"Drama, Music, Musical",USA,Bob Fosse,7.9,72.0,163.0,93.0
+El espíritu de la colmena,1973,"Drama, Fantasy",Spain,Víctor Erice,7.9,87.0,95.0,83.0
+Harold and Maude,1971,"Comedy, Drama, Romance",USA,Hal Ashby,7.9,62.0,333.0,88.0
+Johnny Got His Gun,1971,"Drama, War",USA,Dalton Trumbo,7.9,71.0,84.0,68.0
+Cet obscur objet du désir,1977,"Comedy, Drama","France, Spain",Luis Buñuel,7.9,84.0,66.0,81.0
+Days of Heaven,1978,"Drama, Romance",USA,Terrence Malick,7.9,93.0,206.0,122.0
+Manhattan,1979,"Comedy, Drama, Romance",USA,Woody Allen,7.9,83.0,258.0,160.0
+Patton,1970,"Biography, Drama, War",USA,Franklin J. Schaffner,7.9,91.0,277.0,120.0
+Cabaret,1972,"Drama, Musical",USA,Bob Fosse,7.8,80.0,196.0,100.0
+Badlands,1973,"Crime, Drama",USA,Terrence Malick,7.8,93.0,222.0,136.0
+The Conversation,1974,"Drama, Mystery, Thriller",USA,Francis Ford Coppola,7.8,85.0,345.0,165.0
+The Day of the Jackal,1973,"Crime, Drama, Thriller","UK, France",Fred Zinnemann,7.8,80.0,205.0,62.0
+Kramer vs. Kramer,1979,Drama,USA,Robert Benton,7.8,77.0,210.0,91.0
+3 Women,1977,"Drama, Mystery, Thriller",USA,Robert Altman,7.8,71.0,90.0,101.0
+The French Connection,1971,"Action, Crime, Drama",USA,William Friedkin,7.7,94.0,311.0,159.0
+Sorcerer,1977,"Adventure, Drama, Thriller","USA, Mexico",William Friedkin,7.7,68.0,146.0,101.0
+Breaking Away,1979,"Comedy, Drama, Romance",USA,Peter Yates,7.7,91.0,108.0,70.0
+Giù la testa,1971,"Drama, War, Western","Italy, Spain",Sergio Leone,7.7,77.0,137.0,88.0
+The Shootist,1976,"Drama, Romance, Western",USA,Don Siegel,7.7,77.0,162.0,53.0
+Nashville,1975,"Comedy, Drama, Music",USA,Robert Altman,7.7,96.0,173.0,103.0
+Deliverance,1972,"Adventure, Drama, Thriller",USA,John Boorman,7.7,82.0,387.0,143.0
+Enter the Dragon,1973,"Action, Crime, Drama","Hong Kong, USA",Robert Clouse,7.7,83.0,286.0,159.0
+Serpico,1973,"Biography, Crime, Drama","Italy, USA",Sidney Lumet,7.7,87.0,191.0,110.0
+Professione: reporter,1975,"Drama, Thriller","Italy, France, Spain",Michelangelo Antonioni,7.6,90.0,118.0,128.0
+Close Encounters of the Third Kind,1977,"Drama, Sci-Fi",USA,Steven Spielberg,7.6,90.0,410.0,220.0
+Walkabout,1971,"Adventure, Drama","UK, Australia",Nicolas Roeg,7.6,85.0,151.0,88.0
+Jeremiah Johnson,1972,"Adventure, Drama, Western",USA,Sydney Pollack,7.6,75.0,138.0,43.0
+Lenny,1974,"Biography, Drama",USA,Bob Fosse,7.6,61.0,66.0,63.0
+Little Big Man,1970,"Adventure, Comedy, Drama",USA,Arthur Penn,7.6,63.0,119.0,58.0
+Escape from Alcatraz,1979,"Biography, Crime, Drama",USA,Don Siegel,7.6,76.0,156.0,68.0
+Hair,1979,"Comedy, Drama, Musical","West Germany, USA",Milos Forman,7.6,68.0,167.0,48.0
+The Long Goodbye,1973,"Comedy, Crime, Drama",USA,Robert Altman,7.6,87.0,167.0,141.0

@@ -1,0 +1,58 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Nuovo Cinema Paradiso,1988,Drama,"Italy, France",Giuseppe Tornatore,8.5,80.0,457.0,112.0
+The Shining,1980,"Drama, Horror","UK, USA",Stanley Kubrick,8.4,66.0,1624.0,337.0
+Scarface,1983,"Crime, Drama",USA,Brian De Palma,8.3,65.0,956.0,173.0
+Das Boot,1981,"Adventure, Drama, Thriller",West Germany,Wolfgang Petersen,8.3,86.0,468.0,107.0
+Full Metal Jacket,1987,"Drama, War","UK, USA",Stanley Kubrick,8.3,76.0,801.0,149.0
+Amadeus,1984,"Biography, Drama, History","USA, France, Czechoslovakia, Italy",Milos Forman,8.3,88.0,600.0,108.0
+Raging Bull,1980,"Biography, Drama, Sport",USA,Martin Scorsese,8.2,89.0,545.0,185.0
+Ran,1985,"Action, Drama","Japan, France",Akira Kurosawa,8.2,96.0,262.0,155.0
+Stand by Me,1986,"Adventure, Drama",USA,Rob Reiner,8.1,75.0,665.0,127.0
+Platoon,1986,"Drama, War","USA, UK",Oliver Stone,8.1,92.0,575.0,133.0
+The Elephant Man,1980,"Biography, Drama","USA, UK",David Lynch,8.1,77.0,395.0,139.0
+Fanny och Alexander,1982,Drama,"Sweden, France, West Germany",Ingmar Bergman,8.1,100.0,129.0,97.0
+"Paris, Texas",1984,Drama,"West Germany, France",Wim Wenders,8.1,78.0,199.0,95.0
+Dead Poets Society,1989,"Comedy, Drama",USA,Peter Weir,8.1,79.0,586.0,103.0
+Rain Man,1988,Drama,USA,Barry Levinson,8.0,65.0,405.0,107.0
+Der Himmel über Berlin,1987,"Drama, Fantasy, Romance","West Germany, France",Wim Wenders,8.0,79.0,227.0,114.0
+Tenkû no shiro Rapyuta,1986,"Animation, Adventure, Drama",Japan,Hayao Miyazaki,8.0,78.0,212.0,147.0
+Gandhi,1982,"Biography, Drama, History","UK, India",Richard Attenborough,8.0,79.0,291.0,101.0
+Kagemusha,1980,"Drama, History, War","Japan, USA",Akira Kurosawa,8.0,84.0,96.0,74.0
+Crimes and Misdemeanors,1989,"Comedy, Drama",USA,Woody Allen,7.9,77.0,178.0,101.0
+Do the Right Thing,1989,"Comedy, Drama",USA,Spike Lee,7.9,92.0,456.0,90.0
+The Untouchables,1987,"Crime, Drama, Thriller",USA,Brian De Palma,7.9,79.0,468.0,146.0
+Brazil,1985,"Drama, Sci-Fi","UK, USA",Terry Gilliam,7.9,88.0,553.0,239.0
+The Breakfast Club,1985,"Comedy, Drama",USA,John Hughes,7.9,62.0,831.0,148.0
+Majo no takkyûbin,1989,"Animation, Adventure, Drama",Japan,Hayao Miyazaki,7.9,83.0,192.0,115.0
+My Left Foot: The Story of Christy Brown,1989,"Biography, Drama","Ireland, UK",Jim Sheridan,7.9,97.0,99.0,48.0
+Hannah and Her Sisters,1986,"Comedy, Drama",USA,Woody Allen,7.9,90.0,180.0,79.0
+Empire of the Sun,1987,"Drama, History, War",USA,Steven Spielberg,7.8,62.0,320.0,58.0
+Dip huet seung hung,1989,"Action, Crime, Drama",Hong Kong,John Woo,7.8,82.0,237.0,88.0
+Mississippi Burning,1988,"Crime, Drama, History",USA,Alan Parker,7.8,65.0,203.0,62.0
+Glory,1989,"Biography, Drama, History",USA,Edward Zwick,7.8,78.0,433.0,68.0
+Der siebente Kontinent,1989,Drama,Austria,Michael Haneke,7.8,89.0,45.0,41.0
+'Breaker' Morant,1980,"Drama, History, War",Australia,Bruce Beresford,7.8,72.0,93.0,53.0
+Down by Law,1986,"Comedy, Crime, Drama","USA, West Germany",Jim Jarmusch,7.8,75.0,106.0,78.0
+Blue Velvet,1986,"Drama, Mystery, Thriller",USA,David Lynch,7.8,76.0,736.0,221.0
+The Killing Fields,1984,"Biography, Drama, History",UK,Roland Joffé,7.8,76.0,194.0,72.0
+My Dinner with Andre,1981,"Biography, Comedy, Drama",USA,Louis Malle,7.8,83.0,136.0,59.0
+The Right Stuff,1983,"Adventure, Biography, Drama",USA,Philip Kaufman,7.8,91.0,187.0,86.0
+The Color Purple,1985,Drama,USA,Steven Spielberg,7.8,78.0,222.0,79.0
+The King of Comedy,1982,"Comedy, Crime, Drama",USA,Martin Scorsese,7.8,73.0,267.0,101.0
+The Last Emperor,1987,"Biography, Drama, History","UK, Italy, China, France",Bernardo Bertolucci,7.7,76.0,157.0,82.0
+Maurice,1987,"Drama, Romance",UK,James Ivory,7.7,75.0,74.0,45.0
+After Hours,1985,"Comedy, Crime, Drama",USA,Martin Scorsese,7.7,90.0,207.0,107.0
+Ordinary People,1980,Drama,USA,Robert Redford,7.7,87.0,303.0,64.0
+Running on Empty,1988,"Crime, Drama, Music",USA,Sidney Lumet,7.7,67.0,98.0,45.0
+The Verdict,1982,Drama,USA,Sidney Lumet,7.7,77.0,172.0,86.0
+Missing,1982,"Biography, Drama, History","USA, Mexico",Costa-Gavras,7.7,78.0,97.0,71.0
+The Secret of NIMH,1982,"Animation, Adventure, Drama",USA,Don Bluth,7.6,76.0,164.0,52.0
+Mystery Train,1989,"Comedy, Crime, Drama","Japan, USA",Jim Jarmusch,7.6,80.0,58.0,73.0
+On Golden Pond,1981,Drama,"UK, USA",Mark Rydell,7.6,68.0,119.0,43.0
+The Abyss,1989,"Adventure, Drama, Mystery",USA,James Cameron,7.6,62.0,415.0,99.0
+Sophie's Choice,1982,"Drama, Romance","UK, USA",Alan J. Pakula,7.6,68.0,152.0,38.0
+"The Cook, the Thief, His Wife & Her Lover",1989,"Crime, Drama","Netherlands, UK, France",Peter Greenaway,7.6,62.0,189.0,81.0
+Blood Simple,1984,"Crime, Drama, Thriller",USA,"Joel Coen, Ethan Coen",7.6,81.0,290.0,145.0
+The Last Temptation of Christ,1988,Drama,"Canada, USA",Martin Scorsese,7.6,80.0,323.0,125.0
+Dangerous Liaisons,1988,"Drama, Romance","USA, UK",Stephen Frears,7.6,74.0,153.0,56.0
+When Harry Met Sally...,1989,"Comedy, Drama, Romance",USA,Rob Reiner,7.6,76.0,306.0,139.0

@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+2001: A Space Odyssey,1968,"Adventure, Sci-Fi","UK, USA",Stanley Kubrick,8.3,82.0,2013.0,254.0
+Planet of the Apes,1968,"Adventure, Sci-Fi",USA,Franklin J. Schaffner,8.0,79.0,431.0,147.0
+Seconds,1966,"Sci-Fi, Thriller",USA,John Frankenheimer,7.7,71.0,142.0,130.0
+The Time Machine,1960,"Adventure, Romance, Sci-Fi",USA,George Pal,7.6,67.0,221.0,73.0

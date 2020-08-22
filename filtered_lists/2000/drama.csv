@@ -1,0 +1,184 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+The Dark Knight,2008,"Action, Crime, Drama","USA, UK",Christopher Nolan,9.0,84.0,6344.0,418.0
+The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.9,94.0,3528.0,346.0
+The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.8,92.0,5218.0,329.0
+The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy","New Zealand, USA",Peter Jackson,8.7,87.0,2488.0,315.0
+Cidade de Deus,2002,"Crime, Drama","Brazil, France, Germany","Fernando Meirelles, Kátia Lund",8.6,79.0,942.0,223.0
+The Departed,2006,"Crime, Drama, Thriller",USA,Martin Scorsese,8.5,85.0,2210.0,357.0
+The Prestige,2006,"Drama, Mystery, Sci-Fi","USA, UK",Christopher Nolan,8.5,66.0,1285.0,368.0
+Gladiator,2000,"Action, Adventure, Drama","USA, UK, Malta, Morocco",Ridley Scott,8.5,67.0,2538.0,249.0
+Black Friday,2004,"Action, Crime, Drama",India,Anurag Kashyap,8.5,76.0,59.0,13.0
+The Pianist,2002,"Biography, Drama, Music","UK, France, Poland, Germany",Roman Polanski,8.5,85.0,838.0,190.0
+La meglio gioventù,2003,"Drama, Romance",Italy,Marco Tullio Giordana,8.5,89.0,95.0,66.0
+The Lives of Others,2006,"Drama, Thriller",Germany,Florian Henckel von Donnersmarck,8.4,89.0,458.0,217.0
+3 Idiots,2009,"Comedy, Drama",India,Rajkumar Hirani,8.4,67.0,523.0,54.0
+Oldeuboi,2003,"Action, Drama, Mystery",South Korea,Chan-wook Park,8.4,77.0,924.0,327.0
+Requiem for a Dream,2000,Drama,USA,Darren Aronofsky,8.3,68.0,2040.0,245.0
+Inglourious Basterds,2009,"Adventure, Drama, War","Germany, USA",Quentin Tarantino,8.3,69.0,1729.0,521.0
+Eternal Sunshine of the Spotless Mind,2004,"Drama, Romance, Sci-Fi",USA,Michel Gondry,8.3,89.0,1701.0,287.0
+Werckmeister harmóniák,2000,"Drama, Mystery","Hungary, Italy, Germany, France","Béla Tarr, Ágnes Hranitzky",8.2,92.0,58.0,60.0
+A Beautiful Mind,2001,"Biography, Drama",USA,Ron Howard,8.2,72.0,1243.0,207.0
+Pan's Labyrinth,2006,"Drama, Fantasy, War","Mexico, Spain",Guillermo del Toro,8.2,98.0,1225.0,446.0
+V for Vendetta,2005,"Action, Drama, Sci-Fi","USA, UK, Germany",James McTeigue,8.2,62.0,2148.0,241.0
+Chak De! India,2007,"Drama, Family, Sport",India,Shimit Amin,8.2,68.0,107.0,69.0
+Der Untergang,2004,"Biography, Drama, History","Germany, Austria, Italy",Oliver Hirschbiegel,8.2,82.0,614.0,206.0
+El secreto de sus ojos,2009,"Drama, Mystery, Romance","Argentina, Spain",Juan José Campanella,8.2,80.0,275.0,273.0
+Million Dollar Baby,2004,"Drama, Sport",USA,Clint Eastwood,8.1,86.0,1184.0,284.0
+Hotel Rwanda,2004,"Biography, Drama, History","UK, South Africa, Italy",Terry George,8.1,79.0,655.0,152.0
+Taegukgi hwinalrimyeo,2004,"Action, Drama, War",South Korea,Je-kyu Kang,8.1,64.0,235.0,83.0
+Dare mo shiranai,2004,Drama,Japan,Hirokazu Koreeda,8.1,88.0,110.0,134.0
+Salinui chueok,2003,"Action, Crime, Drama",South Korea,Bong Joon Ho,8.1,82.0,187.0,164.0
+Tasogare Seibei,2002,"Drama, History, Romance",Japan,Yôji Yamada,8.1,82.0,105.0,93.0
+Faa yeung nin wa,2000,"Drama, Romance","Hong Kong, China",Kar-Wai Wong,8.1,85.0,391.0,142.0
+Mou gaan dou,2002,"Crime, Drama, Mystery",Hong Kong,"Andrew Lau, Alan Mak",8.1,75.0,204.0,176.0
+Catch Me If You Can,2002,"Biography, Crime, Drama","USA, Canada",Steven Spielberg,8.1,75.0,759.0,202.0
+Gran Torino,2008,Drama,"Germany, USA",Clint Eastwood,8.1,72.0,956.0,383.0
+There Will Be Blood,2007,Drama,USA,Paul Thomas Anderson,8.1,93.0,1225.0,422.0
+Amores perros,2000,"Drama, Thriller",Mexico,Alejandro G. Iñárritu,8.1,83.0,384.0,165.0
+Ai no mukidashi,2008,"Action, Comedy, Drama",Japan,Sion Sono,8.1,78.0,54.0,117.0
+No Country for Old Men,2007,"Crime, Drama, Thriller",USA,"Ethan Coen, Joel Coen",8.1,91.0,1736.0,528.0
+Yi yi,2000,"Drama, Romance","Taiwan, Japan",Edward Yang,8.1,93.0,101.0,118.0
+Into the Wild,2007,"Adventure, Biography, Drama",USA,Sean Penn,8.1,73.0,891.0,241.0
+Lakposhtha parvaz mikonand,2004,"Drama, War","Iran, France, Iraq",Bahman Ghobadi,8.1,85.0,106.0,119.0
+Lagaan: Once Upon a Time in India,2001,"Adventure, Drama, Musical",India,Ashutosh Gowariker,8.1,84.0,266.0,73.0
+Okuribito,2008,"Drama, Music",Japan,Yôjirô Takita,8.1,68.0,140.0,174.0
+Bin-jip,2004,"Crime, Drama, Romance","South Korea, Japan",Ki-duk Kim,8.0,72.0,128.0,177.0
+Slumdog Millionaire,2008,"Drama, Romance","UK, India","Danny Boyle, Loveleen Tandan",8.0,86.0,1102.0,426.0
+Aruitemo aruitemo,2008,Drama,Japan,Hirokazu Koreeda,8.0,89.0,36.0,127.0
+Cinderella Man,2005,"Biography, Drama, History",USA,Ron Howard,8.0,69.0,582.0,209.0
+Vozvrashchenie,2003,Drama,Russia,Andrey Zvyagintsev,8.0,82.0,183.0,113.0
+Persepolis,2007,"Animation, Biography, Drama","France, USA","Vincent Paronnaud, Marjane Satrapi",8.0,90.0,171.0,253.0
+Mar adentro,2004,"Biography, Drama","Spain, France, Italy",Alejandro Amenábar,8.0,74.0,143.0,159.0
+Bom yeoreum gaeul gyeoul geurigo bom,2003,"Drama, Romance","South Korea, Germany",Ki-duk Kim,8.0,85.0,178.0,127.0
+Before Sunset,2004,"Drama, Romance","USA, France",Richard Linklater,8.0,90.0,519.0,236.0
+Le scaphandre et le papillon,2007,"Biography, Drama","France, USA",Julian Schnabel,8.0,92.0,190.0,267.0
+The Pursuit of Happyness,2006,"Biography, Drama",USA,Gabriele Muccino,8.0,64.0,702.0,200.0
+Blood Diamond,2006,"Adventure, Drama, Thriller","USA, Germany",Edward Zwick,8.0,64.0,704.0,171.0
+Darbareye Elly,2009,"Drama, Mystery, Thriller","Iran, France",Asghar Farhadi,8.0,87.0,70.0,147.0
+Dancer in the Dark,2000,"Crime, Drama, Musical","Denmark, Germany, Netherlands, Italy, USA, UK, France, Sweden, Finland, Iceland, Argentina, Norway, Taiwan, Belgium",Lars von Trier,8.0,61.0,704.0,130.0
+Donnie Darko,2001,"Drama, Sci-Fi, Thriller",USA,Richard Kelly,8.0,88.0,2233.0,364.0
+Moartea domnului Lãzãrescu,2005,"Comedy, Drama",Romania,Cristi Puiu,7.9,86.0,76.0,106.0
+Mystic River,2003,"Crime, Drama, Mystery","USA, Australia",Clint Eastwood,7.9,84.0,999.0,231.0
+Almost Famous,2000,"Adventure, Comedy, Drama",USA,Cameron Crowe,7.9,90.0,845.0,155.0
+C.R.A.Z.Y.,2005,"Comedy, Drama",Canada,Jean-Marc Vallée,7.9,81.0,100.0,70.0
+"4 luni, 3 saptamâni si 2 zile",2007,Drama,"Romania, Belgium",Cristian Mungiu,7.9,97.0,184.0,198.0
+Hable con ella,2002,"Drama, Mystery, Romance",Spain,Pedro Almodóvar,7.9,86.0,265.0,86.0
+In Bruges,2008,"Comedy, Crime, Drama","UK, USA",Martin McDonagh,7.9,67.0,608.0,319.0
+The Wrestler,2008,"Drama, Sport","USA, France",Darren Aronofsky,7.9,81.0,577.0,406.0
+Mulholland Dr.,2001,"Drama, Mystery, Thriller","France, USA",David Lynch,7.9,83.0,1871.0,309.0
+Letters from Iwo Jima,2006,"Action, Adventure, Drama",USA,Clint Eastwood,7.9,89.0,345.0,255.0
+Gegen die Wand,2004,"Drama, Romance","Germany, Turkey",Fatih Akin,7.9,78.0,87.0,126.0
+Låt den rätte komma in,2008,"Drama, Horror, Romance",Sweden,Tomas Alfredson,7.9,82.0,571.0,493.0
+Children of Men,2006,"Drama, Thriller","USA, UK, Japan",Alfonso Cuarón,7.9,84.0,1310.0,315.0
+Moon,2009,"Drama, Mystery, Sci-Fi","UK, USA",Duncan Jones,7.9,67.0,580.0,438.0
+The Fall,2006,"Adventure, Drama, Fantasy","USA, South Africa, India",Tarsem Singh,7.9,64.0,340.0,191.0
+Sennen joyû,2001,"Animation, Drama, Fantasy",Japan,Satoshi Kon,7.9,70.0,66.0,67.0
+Nueve reinas,2000,"Crime, Drama, Thriller",Argentina,Fabián Bielinsky,7.9,80.0,128.0,99.0
+Un prophète,2009,"Crime, Drama","France, Italy",Jacques Audiard,7.9,90.0,163.0,262.0
+No Man's Land,2001,"Drama, War","France, Bosnia and Herzegovina, Italy, Belgium, UK, Slovenia",Danis Tanovic,7.9,84.0,179.0,106.0
+Mr. Nobody,2009,"Drama, Fantasy, Romance","Belgium, Germany, Canada, France, USA, UK",Jaco Van Dormael,7.8,63.0,368.0,132.0
+Les triplettes de Belleville,2003,"Animation, Comedy, Drama","France, Belgium, Canada, UK, Latvia, USA",Sylvain Chomet,7.8,91.0,308.0,175.0
+El hijo de la novia,2001,"Comedy, Drama","Argentina, Spain",Juan José Campanella,7.8,68.0,66.0,53.0
+Waking Life,2001,"Animation, Drama, Fantasy",USA,Richard Linklater,7.8,82.0,513.0,141.0
+The World's Fastest Indian,2005,"Biography, Drama, Sport","New Zealand, Japan, USA",Roger Donaldson,7.8,68.0,256.0,125.0
+Pride & Prejudice,2005,"Drama, Romance","France, UK, USA",Joe Wright,7.8,82.0,1113.0,174.0
+Apocalypto,2006,"Action, Adventure, Drama",USA,Mel Gibson,7.8,68.0,1114.0,287.0
+The Count of Monte Cristo,2002,"Action, Adventure, Drama","UK, USA, Ireland, Switzerland",Kevin Reynolds,7.8,61.0,579.0,136.0
+Veer-Zaara,2004,"Drama, Family, Musical",India,Yash Chopra,7.8,67.0,137.0,30.0
+The Curious Case of Benjamin Button,2008,"Drama, Fantasy, Romance",USA,David Fincher,7.8,70.0,903.0,382.0
+American Gangster,2007,"Biography, Crime, Drama","USA, UK",Ridley Scott,7.8,76.0,491.0,314.0
+Little Miss Sunshine,2006,"Comedy, Drama",USA,"Jonathan Dayton, Valerie Faris",7.8,80.0,924.0,250.0
+Atonement,2007,"Drama, Mystery, Romance","UK, France, USA",Joe Wright,7.8,85.0,630.0,327.0
+Diarios de motocicleta,2004,"Adventure, Biography, Drama","Argentina, USA, Chile, Peru, Brazil, UK, Germany, France",Walter Salles,7.8,75.0,303.0,190.0
+Walk the Line,2005,"Biography, Drama, Music","USA, Germany",James Mangold,7.8,72.0,886.0,277.0
+Das weiße Band - Eine deutsche Kindergeschichte,2009,"Drama, History, Mystery","Germany, Austria, France, Italy, Canada",Michael Haneke,7.8,82.0,208.0,281.0
+Cast Away,2000,"Adventure, Drama, Romance",USA,Robert Zemeckis,7.8,73.0,1119.0,227.0
+Lilja 4-ever,2002,"Crime, Drama","Sweden, Denmark",Lukas Moodysson,7.8,82.0,214.0,115.0
+Once,2007,"Drama, Music, Romance",Ireland,John Carney,7.8,88.0,350.0,241.0
+Auf der anderen Seite,2007,Drama,"Germany, Turkey, Italy",Fatih Akin,7.8,85.0,64.0,146.0
+Madeo,2009,"Crime, Drama, Thriller",South Korea,Bong Joon Ho,7.8,79.0,112.0,210.0
+Crash,2004,"Crime, Drama, Thriller","USA, Germany",Paul Haggis,7.8,69.0,1646.0,290.0
+Ondskan,2003,Drama,"Sweden, Denmark",Mikael Håfström,7.8,61.0,93.0,67.0
+Män som hatar kvinnor,2009,"Crime, Drama, Mystery","Sweden, Denmark, Germany, Norway",Niels Arden Oplev,7.8,76.0,307.0,336.0
+Training Day,2001,"Crime, Drama, Thriller",USA,Antoine Fuqua,7.7,69.0,682.0,121.0
+Efter brylluppet,2006,Drama,"Denmark, Sweden, UK, Norway",Susanne Bier,7.7,78.0,109.0,134.0
+The Last King of Scotland,2006,"Biography, Drama, History","UK, Germany",Kevin Macdonald,7.7,74.0,366.0,249.0
+Hedwig and the Angry Inch,2001,"Comedy, Drama, Music",USA,John Cameron Mitchell,7.7,85.0,235.0,115.0
+Billy Elliot,2000,"Drama, Music","UK, France",Stephen Daldry,7.7,74.0,453.0,155.0
+(500) Days of Summer,2009,"Comedy, Drama, Romance",USA,Marc Webb,7.7,76.0,563.0,349.0
+Zodiac,2007,"Crime, Drama, Mystery",USA,David Fincher,7.7,78.0,698.0,403.0
+Shelter,2007,"Drama, Romance, Sport",USA,Jonah Markowitz,7.7,66.0,89.0,31.0
+This Is England,2006,"Crime, Drama",UK,Shane Meadows,7.7,86.0,204.0,172.0
+Frost/Nixon,2008,"Biography, Drama, History","UK, France, USA",Ron Howard,7.7,80.0,259.0,303.0
+Papurika,2006,"Animation, Drama, Fantasy",Japan,Satoshi Kon,7.7,81.0,119.0,160.0
+12,2007,"Crime, Drama, Thriller",Russia,Nikita Mikhalkov,7.7,72.0,37.0,69.0
+Changeling,2008,"Biography, Crime, Drama",USA,Clint Eastwood,7.7,63.0,417.0,272.0
+Guru,2007,"Biography, Drama",India,Mani Ratnam,7.7,70.0,97.0,19.0
+Water,2005,Drama,"Canada, India",Deepa Mehta,7.7,77.0,151.0,92.0
+Coraline,2009,"Animation, Drama, Fantasy",USA,Henry Selick,7.7,80.0,352.0,332.0
+Brokeback Mountain,2005,"Drama, Romance","USA, Canada",Ang Lee,7.7,87.0,2307.0,298.0
+Machuca,2004,"Biography, Drama, History","Chile, Spain, UK, France",Andrés Wood,7.7,76.0,45.0,55.0
+Finding Neverland,2004,"Biography, Drama, Family","USA, UK",Marc Forster,7.7,67.0,649.0,232.0
+Adaptation.,2002,"Comedy, Drama",USA,Spike Jonze,7.7,83.0,735.0,250.0
+The Machinist,2004,"Drama, Thriller","Spain, France, UK, USA",Brad Anderson,7.7,61.0,511.0,222.0
+Mies vailla menneisyyttä,2002,"Comedy, Drama, Romance","Finland, Germany, France",Aki Kaurismäki,7.7,84.0,118.0,106.0
+21 Grams,2003,"Crime, Drama, Thriller",USA,Alejandro G. Iñárritu,7.7,70.0,569.0,200.0
+In America,2002,Drama,"Ireland, UK, USA",Jim Sheridan,7.7,76.0,278.0,142.0
+The Magdalene Sisters,2002,Drama,"Ireland, UK",Peter Mullan,7.7,83.0,196.0,158.0
+Shooting Dogs,2005,"Drama, History, War","UK, Germany",Michael Caton-Jones,7.7,71.0,49.0,74.0
+Control,2007,"Biography, Drama, Music","UK, USA, Australia, Japan, France",Anton Corbijn,7.7,78.0,154.0,187.0
+Ray,2004,"Biography, Drama, Music",USA,Taylor Hackford,7.7,73.0,446.0,196.0
+Joyeux Noël,2005,"Drama, History, Music","France, Germany, UK, Belgium, Romania, Norway, Japan, USA",Christian Carion,7.7,70.0,151.0,122.0
+Black Hawk Down,2001,"Drama, History, War","USA, UK",Ridley Scott,7.7,74.0,1134.0,216.0
+Good Bye Lenin!,2003,"Comedy, Drama, Romance",Germany,Wolfgang Becker,7.7,68.0,239.0,158.0
+3:10 to Yuma,2007,"Action, Crime, Drama",USA,James Mangold,7.7,76.0,615.0,294.0
+Dear Frankie,2004,"Drama, Romance",UK,Shona Auerbach,7.7,63.0,181.0,97.0
+Lost in Translation,2003,Drama,"USA, Japan",Sofia Coppola,7.7,89.0,1917.0,279.0
+Kontroll,2003,"Comedy, Crime, Drama",Hungary,Nimród Antal,7.7,72.0,144.0,126.0
+Road to Perdition,2002,"Crime, Drama, Thriller",USA,Sam Mendes,7.7,72.0,1029.0,214.0
+Zwartboek,2006,"Drama, Thriller, War","Netherlands, Germany, UK, Belgium",Paul Verhoeven,7.7,71.0,244.0,236.0
+25th Hour,2002,Drama,USA,Spike Lee,7.6,67.0,464.0,215.0
+Hunger,2008,"Biography, Drama","Ireland, UK",Steve McQueen,7.6,82.0,145.0,224.0
+Mysterious Skin,2004,Drama,"USA, Netherlands",Gregg Araki,7.6,73.0,254.0,145.0
+The Hurt Locker,2008,"Drama, Thriller, War",USA,Kathryn Bigelow,7.6,95.0,939.0,397.0
+Sin nombre,2009,"Adventure, Crime, Drama","Mexico, USA",Cary Joji Fukunaga,7.6,77.0,87.0,160.0
+Il y a longtemps que je t'aime,2008,Drama,"France, Germany",Philippe Claudel,7.6,79.0,115.0,140.0
+Traffic,2000,"Crime, Drama, Thriller","USA, Mexico, Germany",Steven Soderbergh,7.6,86.0,893.0,227.0
+Boy A,2007,Drama,UK,John Crowley,7.6,75.0,86.0,95.0
+Uzak,2002,Drama,Turkey,Nuri Bilge Ceylan,7.6,84.0,67.0,73.0
+Ruang rak noi nid mahasan,2003,"Comedy, Drama, Romance","Thailand, Japan, Netherlands",Pen-Ek Ratanaruang,7.6,73.0,48.0,83.0
+Un long dimanche de fiançailles,2004,"Drama, Mystery, Romance","France, USA",Jean-Pierre Jeunet,7.6,76.0,242.0,189.0
+The Station Agent,2003,"Comedy, Drama",USA,Tom McCarthy,7.6,81.0,300.0,161.0
+American Psycho,2000,"Crime, Drama","USA, Canada",Mary Harron,7.6,64.0,1208.0,297.0
+Los lunes al sol,2002,"Comedy, Drama","Spain, France, Italy",Fernando León de Aranoa,7.6,64.0,39.0,65.0
+Les invasions barbares,2003,"Comedy, Crime, Drama","Canada, France",Denys Arcand,7.6,70.0,168.0,131.0
+A Single Man,2009,"Drama, Romance",USA,Tom Ford,7.6,77.0,270.0,300.0
+Moulin Rouge!,2001,"Drama, Musical, Romance","Australia, USA",Baz Luhrmann,7.6,66.0,2322.0,193.0
+Volver,2006,"Comedy, Drama",Spain,Pedro Almodóvar,7.6,84.0,243.0,127.0
+The Visitor,2007,Drama,USA,Tom McCarthy,7.6,79.0,168.0,230.0
+The Kite Runner,2007,Drama,"USA, China, UK, Afghanistan",Marc Forster,7.6,61.0,241.0,204.0
+Huo Yuan Jia,2006,"Action, Biography, Drama","China, Hong Kong",Ronny Yu,7.6,70.0,209.0,150.0
+Thank You for Smoking,2005,"Comedy, Drama",USA,Jason Reitman,7.6,71.0,332.0,241.0
+Jodhaa Akbar,2008,"Action, Drama, History",India,Ashutosh Gowariker,7.6,69.0,126.0,38.0
+La môme,2007,"Biography, Drama, Music","France, UK, Czech Republic",Olivier Dahan,7.6,66.0,235.0,216.0
+The Great Debaters,2007,"Biography, Drama, Romance",USA,Denzel Washington,7.6,65.0,123.0,107.0
+Chinjeolhan geumjassi,2005,"Crime, Drama, Thriller",South Korea,Chan-wook Park,7.6,75.0,144.0,211.0
+Gone Baby Gone,2007,"Crime, Drama, Mystery",USA,Ben Affleck,7.6,72.0,544.0,262.0
+Inside Man,2006,"Crime, Drama, Mystery",USA,Spike Lee,7.6,76.0,696.0,230.0
+Sophie Scholl - Die letzten Tage,2005,"Biography, Crime, Drama",Germany,Marc Rothemund,7.6,76.0,105.0,133.0
+The Royal Tenenbaums,2001,"Comedy, Drama",USA,Wes Anderson,7.6,76.0,972.0,231.0
+Stranger Than Fiction,2006,"Comedy, Drama, Fantasy",USA,Marc Forster,7.6,67.0,578.0,259.0
+Match Point,2005,"Drama, Romance, Thriller","UK, Ireland, Luxembourg",Woody Allen,7.6,72.0,764.0,271.0
+Carandiru,2003,"Drama, Crime","Brazil, Argentina, Italy",Hector Babenco,7.6,71.0,45.0,64.0
+Y tu mamá también,2001,Drama,Mexico,Alfonso Cuarón,7.6,88.0,401.0,187.0
+Batoru rowaiaru,2000,"Adventure, Drama, Sci-Fi",Japan,Kinji Fukasaku,7.6,81.0,630.0,201.0
+Bloody Sunday,2002,"Drama, History, War","UK, Ireland",Paul Greengrass,7.6,90.0,129.0,99.0
+Lord of War,2005,"Action, Crime, Drama","USA, Germany, France",Andrew Niccol,7.6,62.0,468.0,164.0
+28 Days Later...,2002,"Drama, Horror, Sci-Fi",UK,Danny Boyle,7.6,73.0,1470.0,245.0
+Sånger från andra våningen,2000,"Comedy, Drama","Sweden, Norway, Denmark",Roy Andersson,7.6,76.0,106.0,81.0
+Vera Drake,2004,"Crime, Drama","UK, France",Mike Leigh,7.6,83.0,170.0,171.0
+Eastern Promises,2007,"Action, Crime, Drama","UK, Canada, USA",David Cronenberg,7.6,82.0,425.0,281.0
+"Synecdoche, New York",2008,"Comedy, Drama",USA,Charlie Kaufman,7.6,67.0,307.0,249.0
+Dolls,2002,"Drama, Romance",Japan,Takeshi Kitano,7.6,71.0,60.0,97.0
+Die Fälscher,2007,"Crime, Drama, War","Austria, Germany",Stefan Ruzowitzky,7.6,78.0,119.0,166.0
+The Illusionist,2006,"Drama, Fantasy, History","USA, Czech Republic",Neil Burger,7.6,68.0,674.0,241.0

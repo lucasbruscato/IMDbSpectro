@@ -1,0 +1,5 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Double Indemnity,1944,"Crime, Drama, Film-Noir",USA,Billy Wilder,8.3,95.0,364.0,141.0
+The Third Man,1949,"Film-Noir, Mystery, Thriller",UK,Carol Reed,8.1,97.0,455.0,240.0
+The Maltese Falcon,1941,"Film-Noir, Mystery",USA,John Huston,8.0,96.0,393.0,130.0
+Notorious,1946,"Drama, Film-Noir, Romance",USA,Alfred Hitchcock,7.9,100.0,329.0,135.0

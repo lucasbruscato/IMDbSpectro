@@ -1,0 +1,16 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+Chinatown,1974,"Drama, Mystery, Thriller",USA,Roman Polanski,8.2,92.0,509.0,255.0
+Le cercle rouge,1970,"Crime, Drama, Thriller","France, Italy",Jean-Pierre Melville,8.0,91.0,67.0,74.0
+Jaws,1975,"Adventure, Drama, Thriller",USA,Steven Spielberg,8.0,87.0,1150.0,282.0
+Dawn of the Dead,1978,"Horror, Thriller","USA, Italy",George A. Romero,7.9,71.0,696.0,151.0
+The Day of the Jackal,1973,"Crime, Drama, Thriller","UK, France",Fred Zinnemann,7.8,80.0,205.0,62.0
+The Conversation,1974,"Drama, Mystery, Thriller",USA,Francis Ford Coppola,7.8,85.0,345.0,165.0
+3 Women,1977,"Drama, Mystery, Thriller",USA,Robert Altman,7.8,71.0,90.0,101.0
+Halloween,1978,"Horror, Thriller",USA,John Carpenter,7.8,81.0,1399.0,406.0
+Dirty Harry,1971,"Action, Crime, Thriller",USA,Don Siegel,7.7,90.0,338.0,136.0
+Deliverance,1972,"Adventure, Drama, Thriller",USA,John Boorman,7.7,82.0,387.0,143.0
+The Taking of Pelham One Two Three,1974,"Action, Crime, Thriller",USA,Joseph Sargent,7.7,68.0,201.0,104.0
+Sorcerer,1977,"Adventure, Drama, Thriller","USA, Mexico",William Friedkin,7.7,68.0,146.0,101.0
+Professione: reporter,1975,"Drama, Thriller","Italy, France, Spain",Michelangelo Antonioni,7.6,90.0,118.0,128.0
+Profondo rosso,1975,"Horror, Mystery, Thriller",Italy,Dario Argento,7.6,89.0,218.0,205.0
+The Warriors,1979,"Action, Crime, Thriller",USA,Walter Hill,7.6,65.0,443.0,136.0

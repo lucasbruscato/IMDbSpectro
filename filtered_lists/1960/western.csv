@@ -1,0 +1,11 @@
+title,year,genre,country,director,avg_vote,metascore,reviews_from_users,reviews_from_critics
+"Il buono, il brutto, il cattivo",1966,Western,"Italy, Spain, West Germany",Sergio Leone,8.8,90.0,984.0,202.0
+Once Upon a Time in the West,1968,Western,"Italy, USA",Sergio Leone,8.5,80.0,649.0,143.0
+Per qualche dollaro in più,1965,Western,"Italy, Spain, West Germany",Sergio Leone,8.3,74.0,263.0,129.0
+The Man Who Shot Liberty Valance,1962,"Drama, Western",USA,John Ford,8.1,94.0,242.0,78.0
+Per un pugno di dollari,1964,"Drama, Western","Italy, Spain, West Germany",Sergio Leone,8.0,65.0,280.0,143.0
+Hud,1963,"Drama, Western",USA,Martin Ritt,7.9,62.0,134.0,53.0
+The Wild Bunch,1969,"Action, Adventure, Western",USA,Sam Peckinpah,7.9,95.0,313.0,118.0
+Midnight Cowboy,1969,"Drama, Western",USA,John Schlesinger,7.8,79.0,371.0,119.0
+The Magnificent Seven,1960,"Action, Adventure, Western","USA, Philippines",John Sturges,7.7,74.0,282.0,124.0
+El Dorado,1967,"Drama, Romance, Western",USA,Howard Hawks,7.6,85.0,109.0,47.0
